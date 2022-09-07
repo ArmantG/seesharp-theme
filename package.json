@@ -1,5 +1,11 @@
 {
-  "author": "[Armant]",
+  "author": "Armant Goldswain",
+	"publisher": "ArmantG",
+	"homepage": "https://github.com/ArmantG/seesharp-theme/blob/main/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ArmantG/seesharp-theme"
+	},
   "name": "seesharp-theme",
   "displayName": "SeeSharp Theme",
   "description": "A colorful vibrant theme for C#",

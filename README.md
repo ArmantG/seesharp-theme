@@ -5,7 +5,8 @@ A colorful, vibrant syntax theme specifically for C# language.
 This is my 1st attempt - so there may be some issues...
 <br>
 
-![SeeSharp Screenshot](/code.png "SeeSharp Screenshot")
+![SeeSharp Syntax - C#]
+(https://github.com/ArmantG/seesharp-theme/blob/main/code.png)
 
 <br>
 #### Activate theme
