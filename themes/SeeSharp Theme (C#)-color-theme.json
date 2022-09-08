@@ -966,7 +966,8 @@
 				"meta.method.groovy",
 				"support.function.any-method",
 				"keyword.operator.function.infix",
-				"keyword.control.require"
+				"keyword.control.require",
+       
 			],
 			"settings": {
 				"foreground": "#07FB3C"
@@ -1046,7 +1047,16 @@
 				""
 			],
 			"settings": {
-				"foreground": "#43F5F5"
+				"foreground": "#4FE0E0"
+			}
+		},
+    {
+			"scope": [
+				"storage.type.js",
+				""
+			],
+			"settings": {
+				"foreground": "#ff5171"
 			}
 		},
 		{
@@ -1672,7 +1682,7 @@
 				"punctuation.definition.link.restructuredtext"
 			],
 			"settings": {
-				"foreground": "#50B6FF"
+				"foreground": "#34fde6"
 			}
 		},
 		{
@@ -1791,6 +1801,34 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
-		}
+		},
+    {
+      "name": "Tag name",
+      "scope": [
+        "entity.name.tag",
+        "entity.name.tag.class.js",
+        "entity.name.tag.class.jsx"
+      ],
+      "settings": {
+        "foreground": "#FE2149"
+      }
+    },
+    {
+      "name": "Tag Class and ID",
+      "scope": [
+        "entity.name.tag.class",
+        "entity.name.tag.id"
+      ],
+      "settings": {
+        "foreground": "#4afe83"
+      }
+    },
+    {
+      "name": "Tag attribute",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#29caff"
+      }
+    }
 	]
 }
