@@ -225,14 +225,14 @@
 		"tab.unfocusedInactiveForeground": "#9097a0",
 		"terminal.ansiBlack": "#14151a",
 		"terminal.ansiBlue": "#7a36d9",
-		"terminal.ansiBrightBlack": "#5c6673",
-		"terminal.ansiBrightBlue": "#ffa740",
-		"terminal.ansiBrightCyan": "#ffff4d",
+		"terminal.ansiBrightBlack": "#252525",
+		"terminal.ansiBrightBlue": "#0f7bff",
+		"terminal.ansiBrightCyan": "#00FFFF",
 		"terminal.ansiBrightGreen": "#49f249",
 		"terminal.ansiBrightMagenta": "#ff66cc",
-		"terminal.ansiBrightRed": "#f22468",
-		"terminal.ansiBrightWhite": "#f0f1f2",
-		"terminal.ansiBrightYellow": "#4db4ff",
+		"terminal.ansiBrightRed": "#fc183e",
+		"terminal.ansiBrightWhite": "#ffffff",
+		"terminal.ansiBrightYellow": "#eeff33",
 		"terminal.ansiCyan": "#5991ff",
 		"terminal.ansiGreen": "#49f249",
 		"terminal.ansiMagenta": "#b973ff",
@@ -243,7 +243,7 @@
 		"terminalCursor.foreground": "#49f249",
 		"textLink.activeForeground": "#ffe14d",
 		"textLink.foreground": "#ffe14d",
-		"textPreformat.foreground": "#b28cff",
+		"textPreformat.foreground": "#00aab0",
 		"titleBar.activeBackground": "#1e2126",
 		"titleBar.activeForeground": "#b4bbc8",
 		"titleBar.inactiveBackground": "#1e2126",
@@ -270,7 +270,7 @@
 				"source"
 			],
 			"settings": {
-				"foreground": "#D3D1EB",
+				"foreground": "#f8f8f8",
 				"fontStyle": "italic"
 			}
 		},
@@ -414,7 +414,7 @@
 				"string.quoted.template variable.other.readwrite"
 			],
 			"settings": {
-				"foreground": "#A9A6D0"
+				"foreground": "#d5d4d4"
 			}
 		},
 		{
@@ -532,7 +532,7 @@
 				"foreground": "#4FBCFF"
 			}
 		},
-		{
+		{ "name": "FUNCTIONS",
 			"scope": [
 				"entity.name.function.member",
 				"support.function",
