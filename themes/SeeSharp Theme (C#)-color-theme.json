@@ -4,6 +4,7 @@
   "author": "[Armant Goldswain]",
   "name": "SeeSharp Theme",
   "colorScheme": "SeeSharp Color Scheme",
+  "fontStyle": "regular",
   "focusBorder": "ON",
 	"colors": {
 		"activityBar.activeBorder": "#ffe14d",
@@ -270,8 +271,7 @@
 				"source"
 			],
 			"settings": {
-				"foreground": "#f8f8f8",
-				"fontStyle": "italic"
+				"foreground": "#f8f8f8"
 			}
 		},
 		{
