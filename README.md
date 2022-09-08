@@ -5,7 +5,15 @@ A colorful, vibrant syntax theme specifically for C# language.
 This is my 1st attempt - so there may be some issues...
 <br>
 
-![SeeSharp Syntax - C#](https://github.com/ArmantG/seesharp-theme/blob/main/code.png?raw=true)
+![SeeSharp Syntax - C#](https://github.com/ArmantG/seesharp-theme/blob/main/C#.png?raw=true)
+
+![SeeSharp Syntax - html](https://github.com/ArmantG/seesharp-theme/blob/main/html.png?raw=true)
+
+![SeeSharp Syntax - js](https://github.com/ArmantG/seesharp-theme/blob/main/js.png?raw=true)
+
+![SeeSharp Syntax - react](https://github.com/ArmantG/seesharp-theme/blob/main/react.png?raw=true)
+
+
 
 <br>
 #### Activate theme
