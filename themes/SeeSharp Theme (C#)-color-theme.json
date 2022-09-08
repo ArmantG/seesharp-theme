@@ -731,15 +731,26 @@
 				"constant.other.symbol",
 				"punctuation.definition.block.tag",
 				"punctuation.accessor",
-				"meta.attribute.href.html",
-				"punctuation.definition.tag.jsx",
-				"punctuation.definition.tag.tsx",
+			
+        
 				"punctuation.definition.typeparameters",
 				"punctuation.separator",
 				"support.class.component"
 			],
 			"settings": {
 				"foreground": "#FE2149"
+			}
+		},
+    {
+			"scope": [
+				
+				"meta.attribute.href.html",
+				"punctuation.definition.tag.jsx",
+				"punctuation.definition.tag.tsx",
+				
+			],
+			"settings": {
+				"foreground": "#fff9fa"
 			}
 		},
 		{
