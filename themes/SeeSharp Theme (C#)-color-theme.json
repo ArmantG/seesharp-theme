@@ -4,7 +4,6 @@
   "author": "[Armant Goldswain]",
   "name": "SeeSharp Theme",
   "colorScheme": "SeeSharp Color Scheme",
-  "fontStyle": "regular",
   "focusBorder": "ON",
 	"colors": {
 		"activityBar.activeBorder": "#ffe14d",
@@ -251,6 +250,7 @@
 		"titleBar.inactiveForeground": "#9097a0",
 	
 	},
+  "semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"scope": [
@@ -352,7 +352,7 @@
 				"keyword.other."
 			],
 			"settings": {
-				"foreground": "#FE2149"
+				"foreground": "#FE2149", "fontStyle": "italic"
 			}
 		},
 		{
@@ -1335,17 +1335,16 @@
 		{
 			"scope": [
 				"constant.language.boolean",
-				"entity.name.class",
-				"entity.name.namespace",
+		
 				"entity.name.other.preprocessor.macro",
-				"entity.name.type.class",
 				"entity.name.type.interface",
 				"entity.name.type.module",
 				"entity.other.inherited-class",
 				"keyword.operator.decorator",
-				"storage.type.accessor",
+        "entity.name.class",
+        "entity.name.namespace",
 				"storage.type.struct",
-				"support.class",
+        
 				"support.type.primitive",
 				"variable.language.self",
 				"variable.language.super",
@@ -1354,12 +1353,24 @@
 				"variable.other.class",
 				"variable.other.event",
 				"variable.parameter.function.language.special",
+        "support.class",
 				"variable.parameter"
 			],
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
+    {
+      "scope": [
+       
+      	"storage.type.accessor",
+        "entity.name.type.class",
+      ],
+      "settings": {
+        "foreground": "#4c87f7",
+        "fontStyle": "italic"
+      }
+    },
 		{
 			"scope": [
 				"keyword.control.new",
