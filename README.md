@@ -1,8 +1,11 @@
 # SeeSharp-theme
 
 A colorful, vibrant syntax theme specifically for C# language.
+Pretty much just went with what I liked, what kept my eyes engaged and what made what I was doing look more interesting than it really was...
 
 This is my 1st attempt - so there may be some issues...
+
+Any feedback would be greatly appreciated, good or bad, changes, anything.
 <br>
 
 ![SeeSharp Syntax - C#](https://github.com/ArmantG/seesharp-theme/blob/main/C%23.png?raw=true)
