@@ -27,7 +27,13 @@
 				"label": "SeeSharp Theme - Grey",
 				"uiTheme": "vs-dark",
 				"path": "./themes/SeeSharp Theme-Grey.json"
+			},
+      {
+				"label": "SeeSharp Theme - Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SeeSharp Theme-Blue.json"
 			}
+
 		]
 	},
 	"__metadata": {
