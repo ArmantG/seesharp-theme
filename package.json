@@ -9,7 +9,7 @@
 	"name": "seesharp-theme",
 	"displayName": "SeeSharp Theme",
 	"description": "A colorful vibrant theme for C#",
-	"version": "0.7.0",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.70.0"
 	},
@@ -28,12 +28,11 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/SeeSharp Theme-Grey.json"
 			},
-      {
+			{
 				"label": "SeeSharp Theme - Blue",
 				"uiTheme": "vs-dark",
 				"path": "./themes/SeeSharp Theme-Blue.json"
 			}
-
 		]
 	},
 	"__metadata": {
