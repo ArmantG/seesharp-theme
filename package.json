@@ -19,9 +19,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "SeeSharp Theme (C#)",
+				"label": "SeeSharp Theme - Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/SeeSharp Theme (C#)-color-theme.json"
+				"path": "./themes/SeeSharp Theme-Dark.json"
+			},
+      {
+				"label": "SeeSharp Theme - Grey",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SeeSharp Theme-Grey.json"
 			}
 		]
 	},
