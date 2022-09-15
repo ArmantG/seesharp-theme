@@ -238,7 +238,7 @@
     "focusBorder": "#406080",
     "activityBar.inactiveForeground": "#5C7B99",
     "tab.unfocusedInactiveForeground": "#5986B3",
-    "sideBar.foreground": "#5986B3",
+    "sideBar.foreground": "#a9d4ff",
     "tab.inactiveForeground": "#5986B3",
     "titleBar.inactiveForeground": "#5986B3",
     "editorBracketHighlight.foreground1": "#00FF64",
