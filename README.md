@@ -26,7 +26,6 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 ![SeeSharp Syntax - react](https://github.com/ArmantG/seesharp-theme/blob/main/react.png?raw=true)
 
 
-
 <br>
 
 ### Activate theme
