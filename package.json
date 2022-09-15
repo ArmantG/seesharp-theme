@@ -35,6 +35,7 @@
 			}
 		]
 	},
+  "icon": "icon.png",
 	"__metadata": {
 		"id": "1f423455-feb8-4618-b7bb-6e3a4b9b528c",
 		"publisherDisplayName": null,
