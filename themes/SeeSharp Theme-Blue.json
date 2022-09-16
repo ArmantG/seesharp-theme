@@ -129,7 +129,7 @@
     "diffEditor.insertedTextBackground": "#00B38633",
     "diffEditor.removedTextBackground": "#F2494933",
     "terminalCursor.foreground": "#49F249",
-  "terminal.ansiBlack": "#14151A",
+    "terminal.ansiBlack": "#14151A",
     "terminal.ansiBlue": "#689ffd",
     "terminal.ansiCyan": "#59d0ff",
     "terminal.ansiGreen": "#49F249",
@@ -268,7 +268,7 @@
     "method": "#1eff78",
     "keyword": "#FE2149",
     "method.static": { "foreground": "#1eff78", "fontStyle": "bold" },
-       "property": { "foreground": "#FF76F8", "fontStyle": "" },
+    "property": { "foreground": "#FF76F8", "fontStyle": "" },
     "local": { "foreground": "#ffffff", "fontStyle": "bold" },
     "parameter": { "foreground": "#cbcbcb", "fontStyle": "" },
     "field": { "foreground": "#dbdbdb", "fontStyle": "italic" },
@@ -276,16 +276,6 @@
     "macro": { "foreground": "#E6E667", "fontStyle": "italic" },
     "event": { "foreground": "#E6E667", "fontStyle": "italic" }
   },
-
-      "property": { "foreground": "#FF76F8", "fontStyle": "" },
-    "local": { "foreground": "#ffffff", "fontStyle": "bold" },
-    "parameter": { "foreground": "#cbcbcb", "fontStyle": "" },
-    "field": { "foreground": "#dbdbdb", "fontStyle": "italic" },
-    "field.static": { "foreground": "#dbdbdb", "fontStyle": "italic" },
-    "macro": { "foreground": "#E6E667", "fontStyle": "italic" },
-    "event": { "foreground": "#E6E667", "fontStyle": "italic" }
-  },
-
   "tokenColors": [
     {
       "scope": [
