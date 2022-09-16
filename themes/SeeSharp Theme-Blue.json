@@ -267,7 +267,13 @@
     "function": "#00ed00",
     "function.defaultLibrary": "#07FB3C",
     "method": "#1eff78",
+    "keyword": "#FE2149",
     "method.static": { "foreground": "#1eff78", "fontStyle": "bold" },
+    // "variable": { "foreground": "#ffffff", "fontStyle": "bold" },
+    "local": { "foreground": "#ffffff", "fontStyle": "bold" },
+    "parameter": { "foreground": "#cbcbcb", "fontStyle": "" },
+    "field": { "foreground": "#dbdbdb", "fontStyle": "italic" },
+    "field.static": { "foreground": "#dbdbdb", "fontStyle": "italic" },
     "macro": { "foreground": "#E6E667", "fontStyle": "italic" },
     "event": { "foreground": "#E6E667", "fontStyle": "italic" }
   },
@@ -433,7 +439,6 @@
     {
       "scope": [
         "entity.name.section",
-
         "entity.name.type.module",
         "support.type.primitive",
         "variable.other.enummember"
@@ -577,7 +582,7 @@
       ],
       "settings": {
         "foreground": "#07fb69",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
