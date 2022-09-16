@@ -104,7 +104,7 @@
     "method": "#1eff78",
     "keyword": "#FE2149",
     "method.static": { "foreground": "#1eff78", "fontStyle": "bold" },
-    // "variable": { "foreground": "#ffffff", "fontStyle": "bold" },
+    "property": { "foreground": "#FF76F8", "fontStyle": "" },
     "local": { "foreground": "#ffffff", "fontStyle": "bold" },
     "parameter": { "foreground": "#cbcbcb", "fontStyle": "" },
     "field": { "foreground": "#dbdbdb", "fontStyle": "italic" },
