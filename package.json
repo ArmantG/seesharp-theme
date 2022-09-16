@@ -1,45 +1,50 @@
 {
-	"author": "Armant Goldswain",
-	"publisher": "ArmantGoldswain",
-	"homepage": "https://github.com/ArmantG/seesharp-theme/blob/main/README.md",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ArmantG/seesharp-theme"
-	},
-	"name": "seesharp-theme",
-	"displayName": "SeeSharp Theme",
-	"description": "A colorful vibrant syntax theme for C# specifically",
-	"version": "1.0.12",
-	"engines": {
-		"vscode": "^1.70.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "SeeSharp Theme - Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/SeeSharp Theme-Dark.json"
-			},
-			{
-				"label": "SeeSharp Theme - Grey",
-				"uiTheme": "vs-dark",
-				"path": "./themes/SeeSharp Theme-Grey.json"
-			},
-			{
-				"label": "SeeSharp Theme - Blue",
-				"uiTheme": "vs-dark",
-				"path": "./themes/SeeSharp Theme-Blue.json"
-			}
-		]
-	},
-	"icon": "icon.png",
-	"__metadata": {
-		"id": "1f423455-feb8-4618-b7bb-6e3a4b9b528c",
-		"publisherDisplayName": null,
-		"publisherId": "7ae80d0e-191a-46c4-b6ce-841c8df15f2c",
-		"isPreReleaseVersion": false
-	}
+  "author": "Armant Goldswain",
+  "publisher": "ArmantGoldswain",
+  "homepage": "https://github.com/ArmantG/seesharp-theme/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArmantG/seesharp-theme"
+  },
+  "name": "seesharp-theme",
+  "displayName": "SeeSharp Theme",
+  "description": "A colourful vibrant syntax theme for C# specifically",
+  "version": "1.0.12",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SeeSharp Theme - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Dark.json"
+      },
+      {
+        "label": "SeeSharp Theme - Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Grey.json"
+      },
+      {
+        "label": "SeeSharp Theme - Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Blue.json"
+      },
+      {
+        "label": "SeeSharp Theme - Syntax Only",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Syntax Only.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "__metadata": {
+    "id": "1f423455-feb8-4618-b7bb-6e3a4b9b528c",
+    "publisherDisplayName": null,
+    "publisherId": "7ae80d0e-191a-46c4-b6ce-841c8df15f2c",
+    "isPreReleaseVersion": false
+  }
 }
