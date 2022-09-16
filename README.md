@@ -27,7 +27,7 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 
 ![SeeSharp Syntax - js](https://github.com/ArmantG/seesharp-theme/blob/main/js.png?raw=true)
 
-![SeeSharp Syntax - jcsss](https://github.com/ArmantG/seesharp-theme/blob/main/cs.png?raw=true)
+![SeeSharp Syntax - css](https://github.com/ArmantG/seesharp-theme/blob/main/css.png?raw=true)
 
 ![SeeSharp Syntax - react](https://github.com/ArmantG/seesharp-theme/blob/main/react.png?raw=true)
 
