@@ -9,7 +9,7 @@
 	"name": "seesharp-theme",
 	"displayName": "SeeSharp Theme",
 	"description": "A colorful vibrant syntax theme for C# specifically",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"engines": {
 		"vscode": "^1.70.0"
 	},
