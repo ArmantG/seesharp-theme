@@ -37,6 +37,11 @@
         "label": "SeeSharp Theme - Syntax Only",
         "uiTheme": "vs-dark",
         "path": "./themes/SeeSharp Theme-Syntax Only.json"
+      },
+      {
+        "label": "SeeSharp Theme - Solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Solarized.json"
       }
     ]
   },

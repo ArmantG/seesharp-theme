@@ -8,7 +8,7 @@
   "colors": {
     "terminalCursor.foreground": "#49F249",
     "terminal.ansiBlack": "#14151A",
-    "terminal.ansiBlue": "#3142fe",
+    "terminal.ansiBlue": "#0078d4",
     "terminal.ansiCyan": "#36d0ff",
     "terminal.ansiGreen": "#49F249",
     "terminal.ansiMagenta": "#B973FF",
