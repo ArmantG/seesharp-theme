@@ -1,9 +1,16 @@
 # SeeSharp-theme
 
-A colorful, vibrant syntax theme specifically for C# language.
+#### New
+
+Solarized and Syntax Only themes added!
+
+### Description
+
+A colourful, vibrant syntax theme specifically for C# language.
 Pretty much just went with what I liked, what kept my eyes engaged and what made what I was doing look more interesting than it really was...
 
-This is my 1st attempt - so there may be some issues...
+I have created Dark, Grey, Blue, Solarized and Syntax only themes.
+(Still very much a work in progress)
 
 Any feedback would be greatly appreciated, good or bad, changes, anything.
 
@@ -13,6 +20,10 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 
 ![Blue](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/blue.png?raw=true)
 
+## Solarized
+
+![Solarized](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/solarized.png?raw=true)
+
 ## Dark
 
 ![Dark](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/Dark.png?raw=true)
@@ -20,6 +31,10 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 ## Grey
 
 ![Grey](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/Grey.png?raw=true)
+
+## Syntax Only
+
+![Syntax](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/syntax.png?raw=true)
 
 ![SeeSharp Syntax - C#](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23.png?raw=true)
 
@@ -38,5 +53,11 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 After clicking on Install, still on the theme page you can click on Set Color Theme.
 
 To activate and manage your themes at any other time, go to your command pallete, or Ctrl+Shift+p, and type Preferences: Color Theme.
+
+<br>
+Please leave a rating and comment if you like the themes or have something I could improve on.
+
+<br>
+<br>
 
 **Enjoy!**
