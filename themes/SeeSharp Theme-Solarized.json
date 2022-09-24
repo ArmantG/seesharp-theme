@@ -17,7 +17,7 @@
     "debugToolBar.background": "#00212b",
     "dropdown.background": "#002b36",
     "dropdown.border": "#2aa19899",
-    "editor.background": "#05222a",
+    "editor.background": "#091415",
     "editor.lineHighlightBackground": "#073642",
     "editor.hoverHighlightBackground": "#0b4654",
     "editor.selectionHighlightBackground": "#004052",
@@ -130,7 +130,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "type": "#2FDE73",
-    "interface": { "foreground": "#8DFFFF" },
+    "interface": { "foreground": "#8DFFFF", "fontStyle": "italic" },
     "enum": "#2FDE73",
     "struct": { "foreground": "#00F0FF" },
     "variable.defaultLibrary": "#2FDE73",
@@ -361,18 +361,17 @@
     // 		"foreground": "#ff6adf"
     // 	}
     // },
-    // {
-    // 	"scope": [
-
-    // 	"entity.name.type.class",
-    //     "support.class",
-    // 		"variable.other.class",
-    // 	 "entity.name.class"
-    // 	],
-    // 	"settings": {
-    // 		"foreground": "#3488FF"
-    // 	}
-    // },
+    {
+      "scope": [
+        "entity.name.type.class",
+        "support.class",
+        "variable.other.class",
+        "entity.name.class"
+      ],
+      "settings": {
+        "foreground": "#739FFF"
+      }
+    },
     {
       "scope": [
         "variable.css",
@@ -772,12 +771,6 @@
       }
     },
     {
-      "scope": ["entity.other.attribute-name.id"],
-      "settings": {
-        "foreground": "#E6E667"
-      }
-    },
-    {
       "scope": [
         "entity.other.attribute-name.pseudo-element",
         "entity.other.attribute-name.pseudo-class",
@@ -787,10 +780,11 @@
         "entity.other.attribute-name.attribute",
         "meta.group.double.toml",
         "meta.group.toml",
-        "support.other.chomping-indicator.yaml"
+        "support.other.chomping-indicator.yaml",
+        "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#d7ff24"
+        "foreground": "#739FFF"
       }
     },
     {
@@ -1254,7 +1248,8 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#29caff"
+        "foreground": "#29caff",
+        "fontStyle": "italic"
       }
     }
   ]
