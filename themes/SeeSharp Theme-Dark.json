@@ -88,7 +88,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "type": "#2FDE73",
-    "interface": { "foreground": "#8DFFFF" },
+    "interface": { "foreground": "#8DFFFF", "fontStyle": "italic" },
     "enum": "#2FDE73",
     "struct": { "foreground": "#00F0FF" },
     "variable.defaultLibrary": "#2FDE73",
@@ -103,6 +103,9 @@
     "function.defaultLibrary": "#07FB3C",
     "method": "#1eff78",
     "keyword": "#FE2149",
+    // "plainKeyword": "#FE2149",
+    "controlKeyword": "#FE2149",
+    "preprocessorKeyword": "#FE2149",
     "method.static": { "foreground": "#1eff78", "fontStyle": "bold" },
     "property": { "foreground": "#FF76F8", "fontStyle": "" },
     "local": { "foreground": "#ffffff", "fontStyle": "bold" },
@@ -130,9 +133,10 @@
     {
       "scope": ["text", "source"],
       "settings": {
-        "foreground": "#f8f8f8"
+        "foreground": "#00F0FF"
       }
     },
+
     {
       "scope": ["emphasis"],
       "settings": {
@@ -210,7 +214,8 @@
         "keyword.other.",
         "keyword.other.using",
         "keyword.other.namespace",
-        "entity.name.type.keyword"
+        "entity.name.type.keyword",
+        "entity.name.type.namespace"
       ],
       "settings": {
         "foreground": "#FE2149",
@@ -258,17 +263,18 @@
         "variable.language.arguments",
         "variable.other.object",
         "string.quoted.template variable.other.readwrite",
-        "entity.name.namespace",
-        "entity.name.type.namespace"
+        "entity.name.namespace"
       ],
       "settings": {
-        "foreground": "#d5d4d4"
+        "foreground": "#d5d4d4",
+        "fontStyle": ""
       }
     },
     {
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#D3D1EB"
+        "foreground": "#00c3ff",
+        "fontStyle": "italic"
       }
     },
     {
@@ -320,18 +326,17 @@
     // 		"foreground": "#ff6adf"
     // 	}
     // },
-    // {
-    // 	"scope": [
-
-    // 	"entity.name.type.class",
-    //     "support.class",
-    // 		"variable.other.class",
-    // 	 "entity.name.class"
-    // 	],
-    // 	"settings": {
-    // 		"foreground": "#3488FF"
-    // 	}
-    // },
+    {
+      "scope": [
+        "entity.name.type.class",
+        "support.class",
+        "variable.other.class",
+        "entity.name.class"
+      ],
+      "settings": {
+        "foreground": "#739FFF"
+      }
+    },
     {
       "scope": [
         "variable.css",
@@ -486,33 +491,41 @@
       }
     },
     {
-      "scope": ["storage.type", ""],
+      "scope": ["storage.type"],
       "settings": {
         "foreground": "#4FE0E0"
       }
     },
     {
-      "scope": ["storage.type.js", ""],
+      "scope": ["storage.type.js"],
       "settings": {
         "foreground": "#ff5171"
       }
     },
-
     {
       "scope": [
         "variable.other.constant",
         "support.function.magic",
         "variable.other.predefined",
-        "constant.numeric",
-        "keyword.operator.plus.exponent",
-        "keyword.operator.minus.exponent",
         "constant",
         "constant.variable",
         "constant.language",
         "support.constant"
       ],
       "settings": {
-        "foreground": "#E775E1"
+        "foreground": "#1c98a3",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "keyword.operator.plus.exponent",
+        "keyword.operator.minus.exponent"
+      ],
+      "settings": {
+        "foreground": "#ff02ee",
+        "fontStyle": ""
       }
     },
     {
@@ -731,12 +744,6 @@
       }
     },
     {
-      "scope": ["entity.other.attribute-name.id"],
-      "settings": {
-        "foreground": "#E6E667"
-      }
-    },
-    {
       "scope": [
         "entity.other.attribute-name.pseudo-element",
         "entity.other.attribute-name.pseudo-class",
@@ -746,10 +753,11 @@
         "entity.other.attribute-name.attribute",
         "meta.group.double.toml",
         "meta.group.toml",
-        "support.other.chomping-indicator.yaml"
+        "support.other.chomping-indicator.yaml",
+        "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#d7ff24"
+        "foreground": "#739FFF"
       }
     },
     {
@@ -977,7 +985,7 @@
     {
       "scope": ["markup.error", "markup.deleted"],
       "settings": {
-        "foreground": "#E6457B"
+        "foreground": "#fa5170"
       }
     },
     {
@@ -1213,7 +1221,8 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#29caff"
+        "foreground": "#29caff",
+        "fontStyle": "italic"
       }
     }
   ]
