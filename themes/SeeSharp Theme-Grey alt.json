@@ -6,6 +6,7 @@
   "colorScheme": "SeeSharp Color Scheme",
   "focusBorder": "ON",
   "colors": {
+    "foreground": "#ffffff",
     "activityBar.background": "#353535",
     "activityBar.foreground": "#ffffff",
     "activityBarBadge.background": "#3655b5",

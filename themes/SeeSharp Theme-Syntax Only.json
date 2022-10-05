@@ -6,6 +6,7 @@
   "colorScheme": "SeeSharp Color Scheme",
   "focusBorder": "ON",
   "colors": {
+    "foreground": "#ffffff",
     "terminalCursor.foreground": "#49F249",
     "terminal.ansiBlack": "#14151A",
     "terminal.ansiBlue": "#0078d4",

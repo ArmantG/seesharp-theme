@@ -54,7 +54,7 @@
     "input.border": "#081620",
     "menu.background": "#081620",
     "menu.border": "#081620",
-    // "foreground": "#A3BDCC",
+  "foreground": "#ffffff",
     "charts.foreground": "#A3BDCC",
     // "editor.foreground": "#A3BDCC",
     "editorLineNumber.activeForeground": "#A3BDCC",
