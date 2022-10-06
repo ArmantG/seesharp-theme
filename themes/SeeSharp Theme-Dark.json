@@ -6,6 +6,12 @@
   "colorScheme": "SeeSharp Color Scheme",
   "focusBorder": "ON",
   "colors": {
+    "editorBracketHighlight.foreground1": "#00FF64",
+    "editorBracketHighlight.foreground2": "#FFEA00",
+    "editorBracketHighlight.foreground3": "#00FFFF",
+    "editorBracketHighlight.foreground4": "#AB80FF",
+    "editorBracketHighlight.foreground5": "#E63AC8",
+    "editorBracketHighlight.foreground6": "#59BAFF",
     "foreground": "#ffffff",
     "activityBar.background": "#16171D",
     "activityBar.foreground": "#D7DAE0",
