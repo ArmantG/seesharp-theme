@@ -22,7 +22,7 @@
     "diffEditor.insertedTextBackground": "#00809B33",
     "dropdown.border": "#181A11",
     "editor.background": "#181a21",
-    "editor.foreground": "#f8f8f0",
+    "editor.foreground": "#ffffff",
     "editorError.foreground": "#c24038",
     "editorRuler.foreground": "#484848",
     "editor.lineHighlightBackground": "#1F2328",

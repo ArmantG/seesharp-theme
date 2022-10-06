@@ -19,7 +19,7 @@
     "button.background": "#565656",
     "dropdown.background": "#525252",
     "editor.background": "#232323",
-    "editor.foreground": "#c5c8c6",
+      "editor.foreground": "#ffffff",
     "editor.lineHighlightBackground": "#303030",
     "editor.selectionBackground": "#676b7180",
     "editor.selectionHighlightBackground": "#575b6180",
