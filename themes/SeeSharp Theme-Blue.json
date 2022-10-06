@@ -661,7 +661,8 @@
         "keyword.constant.numeric"
       ],
       "settings": {
-        "foreground": "#FB48C4"
+        "foreground": "#FB48C4",
+        "fontStyle": ""
       }
     },
     {
