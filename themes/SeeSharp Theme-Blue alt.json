@@ -403,14 +403,14 @@
         "foreground": "#02BF90"
       }
     },
-    {
-      "scope": [
-        "keyword.operator",
-      ],
-      "settings": {
-        "foreground": "#000000"
-      }
-    },
+    // {
+    //   "scope": [
+    //     "keyword.operator",
+    //   ],
+    //   "settings": {
+    //     "foreground": "#000000"
+    //   }
+    // },
     {
       "scope": [
         "entity.name.type",
@@ -624,7 +624,6 @@
         "entity.name.function.member",
         "support.function",
         "entity.name.function.method",
-        "keyword.operator",
         // "support.function.any-method",
       ],
       "settings": {
