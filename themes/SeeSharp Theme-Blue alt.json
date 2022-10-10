@@ -623,11 +623,22 @@
       "scope": [
         "entity.name.function.member",
         "support.function",
-        "entity.name.function.method"
+        "entity.name.function.method",
+        "keyword.operator",
         // "support.function.any-method",
       ],
       "settings": {
         "foreground": "#07fb69",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Operators",
+      "scope": [
+        "keyword.operator",
+      ],
+      "settings": {
+        "foreground": "#019ba9",
         "fontStyle": ""
       }
     },
@@ -639,7 +650,7 @@
         "source.coffee.embedded",
         "variable.other.property",
         "variable.other.constant.property",
-        "keyword.constant.numeric"
+        "keyword.constant.numeric",
       ],
       "settings": {
         "foreground": "#FB48C4",
@@ -673,27 +684,14 @@
     },
     {
       "scope": [
-        "storgae.type.extends",
-        "storage.control",
-        "keyword.storage",
-        "keyword.constant.storage",
-        "punctuation.flowtype",
-        "meta.object.flowtype",
-        "keyword.operator.new",
-        "keyword.control.new",
-        "storage",
-        "keyword.operator",
-        "keyword.operator.member",
-        "keyword.control.directive",
-        "keyword.control",
-        "punctuation.definition.keyword",
-        "keyword.other.important",
-        "keyword.other.new",
-        "keyword.other",
+        "entity.name.type.keyword",
+        "entity.name.type.namespace",
+        "keyword.other.using",
+        "keyword.other.namespace",
       ],
       "settings": {
         "foreground": "#FE2149",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -720,11 +718,23 @@
         "keyword.operator.wordlike",
         "keyword.other.operator",
         "source.cpp keyword.operator.new",
+        "storgae.type.extends",
+        "storage.control",
+        "keyword.storage",
+        "keyword.constant.storage",
+        "punctuation.flowtype",
+        "meta.object.flowtype",
+        "keyword.operator.new",
+        "keyword.control.new",
+        "storage",
+        "keyword.operator.member",
+        "keyword.control.directive",
+        "keyword.control",
+        "punctuation.definition.keyword",
+        "keyword.other.important",
+        "keyword.other.new",
+        "keyword.other",
         // "keyword"
-        "keyword.other.using",
-        "keyword.other.namespace",
-        "entity.name.type.keyword",
-        "entity.name.type.namespace"
       ],
       "settings": {
         "foreground": "#FE2149",
