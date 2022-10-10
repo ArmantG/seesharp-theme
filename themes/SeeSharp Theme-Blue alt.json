@@ -267,15 +267,15 @@
       "foreground": "#2FDE73"
     },
     "class": {
-      "foreground": "#4a83ff",
+      "foreground": "#588dff",
       "fontStyle": ""
     },
     "class.static": {
-      "foreground": "#4a83ff",
+      "foreground": "#588dff",
       "fontStyle": ""
     },
     "class.readonly": {
-      "foreground": "#4a83ff",
+      "foreground": "#588dff",
       "fontStyle": ""
     },
     "class.declaration": {
@@ -287,9 +287,11 @@
     "function.defaultLibrary": "#00ed00",
     "method": "#1eff78",
     "keyword": "#FE2149",
-    //  "plainKeyword": "#FE2149",
-    // "controlKeyword": "#FE2149",
-    // "preprocessorKeyword": "#FE2149",
+    "plainKeyword": {
+      "foreground": "#FE2149",
+    },
+    "controlKeyword": "#FE2149",
+    "preprocessorKeyword": "#FE2149",
     "method.static": {
       "foreground": "#1eff78",
       "fontStyle": "bold"
@@ -303,15 +305,15 @@
       "fontStyle": "bold"
     },
     "parameter": {
-      "foreground": "#74ffdc",
-      "fontStyle": "italic"
+      "foreground": "#d3d3d3",
+      "fontStyle": ""
     },
     "field": {
-      "foreground": "#ffffff",
+      "foreground": "#50ffd3",
       "fontStyle": ""
     },
     "field.static": {
-      "foreground": "#ffffff",
+      "foreground": "#50ffd3",
       "fontStyle": ""
     },
     "macro": {
@@ -343,7 +345,7 @@
         "source"
       ],
       "settings": {
-        "foreground": "#00FFFF"
+        "foreground": "#fff"
       }
     },
     {
@@ -596,7 +598,7 @@
       ],
       "settings": {
         "foreground": "#00FFFF",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -691,7 +693,7 @@
       ],
       "settings": {
         "foreground": "#FE2149",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
