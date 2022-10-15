@@ -133,25 +133,25 @@
     "foreground": "#1eff78",
     "fontStyle": "bold"
   },
-  "property": {
-    "foreground": "#ffffff",
-    "fontStyle": "italic"
-  },
-  "local": {
-    "foreground": "#ffffff",
-    "fontStyle": "bold"
-  },
-  "parameter": {
-    "foreground": "#d3d3d3",
-    "fontStyle": ""
-  },
-  "field": {
-    "foreground": "#50ffd3",
-    "fontStyle": ""
-  },
-  "field.static": {
-    "foreground": "#50ffd3",
-    "fontStyle": ""
+"property": {
+  "foreground": "#ffffff",
+  "fontStyle": "bold"
+},
+"local": {
+  "foreground": "#50ffd3",
+  "fontStyle": ""
+},
+"parameter": {
+  "foreground": "#ADFFE5",
+  "fontStyle": "italic"
+},
+"field": {
+  "foreground": "#ffffff",
+  "fontStyle": ""
+},
+"field.static": {
+  "foreground": "#ffffff",
+  "fontStyle": ""
   },
   "macro": {
     "foreground": "#E6E667",

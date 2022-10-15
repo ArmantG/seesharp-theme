@@ -64,11 +64,26 @@
     "controlKeyword": "#FE2149",
     "preprocessorKeyword": "#FE2149",
     "method.static": { "foreground": "#1eff78", "fontStyle": "bold" },
-    "property": { "foreground": "#FF76F8", "fontStyle": "" },
-    "local": { "foreground": "#ffffff", "fontStyle": "bold" },
-    "parameter": { "foreground": "#cbcbcb", "fontStyle": "" },
-    "field": { "foreground": "#dbdbdb", "fontStyle": "italic" },
-    "field.static": { "foreground": "#dbdbdb", "fontStyle": "italic" },
+    "property": {
+      "foreground": "#FF76F8",
+      "fontStyle": ""
+    },
+    "local": {
+      "foreground": "#ffffff",
+      "fontStyle": ""
+    },
+    "parameter": {
+      "foreground": "#cbcbcb",
+      "fontStyle": "italic"
+    },
+    "field": {
+      "foreground": "#50ffd3",
+      "fontStyle": ""
+    },
+    "field.static": {
+      "foreground": "#50ffd3",
+      "fontStyle": ""
+    },
     "macro": { "foreground": "#E6E667", "fontStyle": "italic" },
     "event": { "foreground": "#E6E667", "fontStyle": "italic" }
   },

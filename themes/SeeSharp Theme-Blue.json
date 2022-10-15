@@ -299,19 +299,19 @@
     },
     "local": {
       "foreground": "#ffffff",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "parameter": {
       "foreground": "#cbcbcb",
-      "fontStyle": ""
+      "fontStyle": "italic"
     },
     "field": {
-      "foreground": "#dbdbdb",
-      "fontStyle": "italic"
+      "foreground": "#50ffd3",
+      "fontStyle": ""
     },
     "field.static": {
-      "foreground": "#dbdbdb",
-      "fontStyle": "italic"
+      "foreground": "#50ffd3",
+      "fontStyle": ""
     },
     "macro": {
       "foreground": "#E6E667",

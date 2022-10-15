@@ -90,22 +90,22 @@
   },
   "property": {
     "foreground": "#ffffff",
-    "fontStyle": "italic"
-  },
-  "local": {
-    "foreground": "#ffffff",
     "fontStyle": "bold"
   },
-  "parameter": {
-    "foreground": "#d3d3d3",
+  "local": {
+    "foreground": "#50ffd3",
     "fontStyle": ""
   },
+  "parameter": {
+    "foreground": "#ADFFE5",
+    "fontStyle": "italic"
+  },
   "field": {
-    "foreground": "#50ffd3",
+    "foreground": "#ffffff",
     "fontStyle": ""
   },
   "field.static": {
-    "foreground": "#50ffd3",
+    "foreground": "#ffffff",
     "fontStyle": ""
   },
   "macro": {
