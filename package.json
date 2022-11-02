@@ -51,6 +51,34 @@
       {
         "label": "SeeSharp Theme - Solarized V2",
         "uiTheme": "vs-dark",
+<<<<<<< HEAD
+=======
+        "path": "./themes/SeeSharp Theme-Grey alt.json"
+      },
+      {
+        "label": "SeeSharp Theme - Blue (alt)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Blue alt.json"
+      },
+      {
+        "label": "SeeSharp Theme - Syntax Only (alt)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Syntax Only alt.json"
+      },
+      {
+        "label": "SeeSharp Theme - Solarized (alt)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Solarized alt.json"
+      },
+      {
+        "label": "SeeSharp Theme - Oceanic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Oceanic.json"
+      },
+      {
+        "label": "SeeSharp Theme - Solarized V2",
+        "uiTheme": "vs-dark",
+>>>>>>> origin/main
         "path": "./themes/SeeSharp Theme-Solarized V2.json"
       }
     ]
