@@ -9,7 +9,7 @@
   "name": "seesharp-theme",
   "displayName": "SeeSharp Theme",
   "description": "A colourful vibrant syntax theme for C# specifically",
-  "version": "3.5.3",
+  "version": "4.0.0",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -52,7 +52,8 @@
         "label": "SeeSharp Theme - Solarized V2",
         "uiTheme": "vs-dark",
         "path": "./themes/SeeSharp Theme-Solarized V2.json"
-      }]
+      }
+    ]
   },
   "icon": "icon.png",
   "__metadata": {
