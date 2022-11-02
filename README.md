@@ -19,61 +19,45 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 
 <br>
 
-## Blue
 
-![Blue](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20blue.png?raw=true)
+## Blue 
 
-## Blue Alt
+![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20blue%20alt.png?raw=true)
 
-![Blue alt](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20blue%20alt.png?raw=true)
 
-## Dark
 
-![Dark](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20dark.png?raw=true)
+## Dark 
 
-## Dark Alt
+![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20dark%20alt.png?raw=true)
 
-![Blue alt](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20dark%20alt.png?raw=true)
 
-## Solarized
+## Solarized 
 
-![Solrized](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20solarized.png?raw=true)
+![Solrized ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20solarized%20alt.png?raw=true)
 
-## Solarized Alt
 
-![Solrized alt](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20solarized%20alt.png?raw=true)
+## Grey 
 
-## Grey
+![Grey ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20grey%20alt.png?raw=true)
 
-![Grey](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20grey.png?raw=true)
 
-## Grey Alt
+## Syntax Only 
 
-![Grey alt](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20grey%20alt.png?raw=true)
-
-## Syntax Only
-
-![Syntax](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20syntax%20only.png?raw=true)
-
-## Syntax Only Alt
-
-![Syntax Only alt](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20syntax%20alt.png?raw=true)
+![Syntax Only ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20syntax%20alt.png?raw=true)
 
 ## HTML/CSS/JS
 
 ![HTML/CSS/JS](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/html%20dark.png?raw=true)
 
-## HTML/CSS/JS Alt
 
-![HTML/CSS/JS alt](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/html%20dark%20alt.png?raw=true)
+## HTML/CSS/JS 
 
-## React
+![HTML/CSS/JS ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/html%20dark%20alt.png?raw=true)
 
-![React](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/React%20dark.png?raw=true)
 
-## React Alt
+## React 
 
-![React alt](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/React%20dark%20alt.png?raw=true)
+![React ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/React%20dark%20alt.png?raw=true)
 
 <br>
 
