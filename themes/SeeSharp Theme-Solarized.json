@@ -185,7 +185,7 @@
     "fontStyle": ""
   },
   "parameter": {
-    "foreground": "#FFDFF3",
+    "foreground": "#ff8ae0",
     "fontStyle": "italic"
   },
   "field": {
@@ -525,7 +525,7 @@
     {
       "scope": [
         "support.type.vendored.property-name",
-        "support.type.property-name",
+        // "support.type.property-name",
         "variable.other.less",
         "source.coffee.embedded",
         "variable.other.property",
@@ -534,6 +534,21 @@
       ],
       "settings": {
         "foreground": "#FB48C4",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        //"support.type.vendored.property-name",
+        "support.type.property-name",
+        // "variable.other.less",
+        // "source.coffee.embedded",
+        // "variable.other.property",
+        // "variable.other.constant.property",
+        // "keyword.constant.numeric",
+      ],
+      "settings": {
+        "foreground": "#00b4fc",
         "fontStyle": ""
       }
     },

@@ -682,19 +682,34 @@
    }
   },
   {
-   "scope": [
-    "support.type.vendored.property-name",
-    "support.type.property-name",
-    "variable.other.less",
-    "source.coffee.embedded",
-    "variable.other.property",
-    "variable.other.constant.property",
-    "keyword.constant.numeric",
-   ],
-   "settings": {
-    "foreground": "#FB48C4",
-    "fontStyle": ""
-   }
+    "scope": [
+      "support.type.vendored.property-name",
+      // "support.type.property-name",
+      "variable.other.less",
+      "source.coffee.embedded",
+      "variable.other.property",
+      "variable.other.constant.property",
+      "keyword.constant.numeric",
+    ],
+    "settings": {
+      "foreground": "#FB48C4",
+      "fontStyle": ""
+    }
+  },
+  {
+    "scope": [
+      //"support.type.vendored.property-name",
+      "support.type.property-name",
+      // "variable.other.less",
+      // "source.coffee.embedded",
+      // "variable.other.property",
+      // "variable.other.constant.property",
+      // "keyword.constant.numeric",
+    ],
+    "settings": {
+      "foreground": "#00b4fc",
+      "fontStyle": ""
+    }
   },
   {
    "scope": [

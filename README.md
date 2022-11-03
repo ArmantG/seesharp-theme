@@ -2,18 +2,13 @@
 
 ## New
 
-Alternative syntax added to try fix the file scoped namespaces issue in some
-themes while keeping the keywords and storage modifiers consistant.
+Oceanic and Solarized-V2 themes added
 
 ### Description
 
 A colourful, vibrant syntax theme specifically for C# language. Pretty much just
 went with what I liked, what kept my eyes engaged and what made what I was doing
 look more interesting than it really was...
-
-I have created Dark, Grey, Blue, Solarized and Syntax only themes. I have now
-added alt to each to remedy the issues when switching to file scoped namespaces
-in C#.
 
 Any feedback would be greatly appreciated, good or bad, changes, anything.
 
