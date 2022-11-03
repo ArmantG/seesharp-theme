@@ -73,11 +73,7 @@
   "editorBracketHighlight.foreground1": "#f6cc73",
   "editorBracketHighlight.foreground2": "#978dd6",
   "editorBracketHighlight.foreground3": "#5fb2df",
-<<<<<<< HEAD
   "editor.background": "#1C262A",
-=======
-  "editor.background": "#111c23",
->>>>>>> origin/main
   "editor.findMatchBackground": "#97c89220",
   "editor.findMatchBorder": "#97c89260",
   "editor.findMatchHighlightBackground": "#97c89220",
