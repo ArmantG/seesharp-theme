@@ -15,26 +15,29 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 <br>
 
 
-## Blue 
+## Oceanic
+
+![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/Oceanic.png?raw=true)
+
+## Solarized V2
+
+![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/SolarizedV2.png?raw=true)
+
+## Blue
 
 ![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20blue%20alt.png?raw=true)
-
-
 
 ## Dark 
 
 ![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20dark%20alt.png?raw=true)
 
-
 ## Solarized 
 
 ![Solrized ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20solarized%20alt.png?raw=true)
 
-
 ## Grey 
 
 ![Grey ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20grey%20alt.png?raw=true)
-
 
 ## Syntax Only 
 
@@ -43,7 +46,6 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 ## HTML/CSS/JS
 
 ![HTML/CSS/JS](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/html%20dark.png?raw=true)
-
 
 ## HTML/CSS/JS 
 
