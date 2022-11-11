@@ -18,11 +18,11 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 
 ## Cobalt Blue
 
-![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20blue%20alt.png?raw=true)
+![Cobalt Blue](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/Cobalt%20Blue.png?raw=true)
 
 ## Oceanic
 
-![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/Oceanic.png?raw=true)
+![Oceanic](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/Oceanic.png?raw=true)
 
 ## Blue
 
@@ -30,7 +30,7 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 
 ## Dark
 
-![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20dark%20alt.png?raw=true)
+![Dark ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20dark%20alt.png?raw=true)
 
 ## Solarized
 
@@ -46,7 +46,7 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 
 ## Solarized V2
 
-![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/SolarizedV2.png?raw=true)
+![Solarized V2 ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/SolarizedV2.png?raw=true)
 
 ## HTML/CSS/JS
 
