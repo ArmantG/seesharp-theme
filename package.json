@@ -34,6 +34,11 @@
         "path": "./themes/SeeSharp Theme-Blue.json"
       },
       {
+        "label": "SeeSharp Theme - Cobalt Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Cobalt Blue.json"
+      },
+      {
         "label": "SeeSharp Theme - Syntax Only",
         "uiTheme": "vs-dark",
         "path": "./themes/SeeSharp Theme-Syntax Only.json"

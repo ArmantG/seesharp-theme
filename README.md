@@ -2,7 +2,9 @@
 
 ## New
 
-Oceanic and Solarized-V2 themes added
+Cobalt2 inspired blue theme theme with custom syntax colors.
+Original Cobalt2 theme by Wes Bos - wesbos.theme-cobalt2.
+Slightly darker background to make syntax colors pop.
 
 ### Description
 
@@ -13,6 +15,10 @@ look more interesting than it really was...
 Any feedback would be greatly appreciated, good or bad, changes, anything.
 
 <br>
+
+## Cobalt Blue
+
+![Blue ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/C%23%20blue%20alt.png?raw=true)
 
 ## Oceanic
 
