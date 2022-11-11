@@ -17,3 +17,5 @@ v 1.2.0 - Added Solarized and Syntax Only themes.
 v 2.1.0 - updated syntax to resolve file-scoped namespaces issue in .Net6 and C# 10
 
 V 3.0.0 - added alt themes to attempt to remedy the file scoped namespaces issue with color themes. added new screenshots
+
+V 3.0.1 to current - added two new themes. Minor color tweaks and adjustments.
