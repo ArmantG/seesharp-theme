@@ -2,7 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "author": "[Armant Goldswain]",
-  "name": "SeeSharp Theme - Blue",
+  "name": "SeeSharp Theme - Tailwind",
   "colorScheme": "SeeSharp Color Scheme",
   "focusBorder": "ON",
   "colors": {
@@ -10,9 +10,9 @@
     "focusBorder": "#2f405d75",
     // Activity Bar Styles
     "activityBar.background": "#1e293b",
-    "activityBarBadge.background": "#f472b6",
+    "activityBarBadge.background": "#80cbc4",
     "activityBar.foreground": "#93c5fd",
-    "activityBar.activeBorder": "#f472b6",
+    "activityBar.activeBorder": "#80cbc4",
     // Button Styles
     "button.background": "#27354c",
     // Editor Styles
@@ -30,7 +30,7 @@
     "menu.background": "#1e293b",
     // Panel styles
     "panel.border": "#151d2a",
-    "panelInput.border": "#f472b6",
+    "panelInput.border": "#80cbc4",
     // Sidebar styles
     "sideBar.background": "#1e293b",
     "sideBar.border": "#151d2a",
@@ -39,7 +39,7 @@
     "scrollbar.shadow": "#1e293b",
     // List styles
     "list.activeSelectionBackground": "#2f405d",
-    "list.focusOutline": "#f472b6",
+    "list.focusOutline": "#80cbc4",
     "list.hoverBackground": "#384c6e",
     // Quick Input / Command Palette
     "quickInput.background": "#151d2a",
@@ -54,7 +54,7 @@
     "statusBar.debuggingBackground": "#151d2a",
     // Tab Styles
     "tab.activeBackground": "#151d2a",
-    "tab.activeBorder": "#f472b6",
+    "tab.activeBorder": "#80cbc4",
     "tab.inactiveBackground": "#1e293b",
     "tab.hoverBackground": "#27354c",
     // Title Bar Styles
