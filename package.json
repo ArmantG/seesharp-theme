@@ -9,7 +9,7 @@
   "name": "seesharp-theme",
   "displayName": "SeeSharp Theme",
   "description": "A colourful vibrant syntax theme for C# specifically",
-  "version": "4.1.1",
+  "version": "5.0.0",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -58,11 +58,11 @@
         "uiTheme": "vs-dark",
         "path": "./themes/SeeSharp Theme-Solarized V2.json"
       },
-        {
-          "label": "SeeSharp Theme - Tailwind",
-          "uiTheme": "vs-dark",
-          "path": "./themes/SeeSharp Theme-Tailwind.json"
-        }
+      {
+        "label": "SeeSharp Theme - Tailwind",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Tailwind.json"
+      }
     ]
   },
   "icon": "icon.png",
