@@ -57,7 +57,12 @@
         "label": "SeeSharp Theme - Solarized V2",
         "uiTheme": "vs-dark",
         "path": "./themes/SeeSharp Theme-Solarized V2.json"
-      }
+      },
+        {
+          "label": "SeeSharp Theme - Tailwind",
+          "uiTheme": "vs-dark",
+          "path": "./themes/SeeSharp Theme-Tailwind.json"
+        }
     ]
   },
   "icon": "icon.png",

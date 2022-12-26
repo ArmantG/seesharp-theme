@@ -48,6 +48,10 @@ Any feedback would be greatly appreciated, good or bad, changes, anything.
 
 ![Solarized V2 ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/SolarizedV2.png?raw=true)
 
+## Tailwind
+
+![Tailwind ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/Tailwind.png?raw=true)
+
 ## HTML/CSS/JS
 
 ![HTML/CSS/JS](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/html%20dark.png?raw=true)

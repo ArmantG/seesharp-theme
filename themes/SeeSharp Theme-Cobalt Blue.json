@@ -43,7 +43,7 @@
     "dropdown.foreground": "#fff",
     // editor
     // This is the main background color
-    "editor.background": "#112432",
+    "editor.background": "#15232d",
     // this is the main text colour
     "editor.foreground": "#fff",
     // Okay this part is confusing as heck!
@@ -208,7 +208,7 @@
     "sideBar.border": "#0d3a58",
     "sideBar.foreground": "#aaa",
     "sideBarSectionHeader.background": "#193549",
-    "sideBarSectionHeader.foreground": "#aaaaaa",
+    "sideBarSectionHeader.foreground": "#fff",
     "sideBarTitle.foreground": "#aaaaaa",
     // statusBar
     "statusBar.background": "#15232d",
@@ -330,25 +330,25 @@
       "foreground": "#1eff78",
       "fontStyle": "bold"
     },
-  "property": {
-    "foreground": "#ffffff",
-    "fontStyle": "bold"
-  },
-  "local": {
-    "foreground": "#50ffd3",
-    "fontStyle": ""
-  },
-  "parameter": {
-    "foreground": "#ff8ae0",
-    "fontStyle": "italic"
-  },
-  "field": {
-    "foreground": "#ffffff",
-    "fontStyle": ""
-  },
-  "field.static": {
-    "foreground": "#ffffff",
-    "fontStyle": ""
+    "property": {
+      "foreground": "#ffffff",
+      "fontStyle": "bold"
+    },
+    "local": {
+      "foreground": "#50ffd3",
+      "fontStyle": ""
+    },
+    "parameter": {
+      "foreground": "#ff8ae0",
+      "fontStyle": "italic"
+    },
+    "field": {
+      "foreground": "#ffffff",
+      "fontStyle": ""
+    },
+    "field.static": {
+      "foreground": "#ffffff",
+      "fontStyle": ""
     },
     "macro": {
       "foreground": "#E6E667",
