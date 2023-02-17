@@ -64,9 +64,9 @@
         "path": "./themes/SeeSharp Theme-Tailwind.json"
       },
       {
-        "label": "Javascript-Sharp",
+        "label": "SeeSharp Theme-Material High Contrast",
         "uiTheme": "vs-dark",
-        "path": "./themes/JavaScript-Sharp.json"
+        "path": "./themes/SeeSharp Theme-Material High Contrast.json"
       }
     ]
   },

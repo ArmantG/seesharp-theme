@@ -262,7 +262,6 @@
       "foreground": "#00F0FF",
       "fontStyle": ""
     },
-    "variable.defaultLibrary": "#2FDE73",
     "class.defaultLibrary": {
       "foreground": "#2FDE73"
     },
@@ -296,25 +295,25 @@
       "foreground": "#1eff78",
       "fontStyle": "bold"
     },
-  "property": {
-    "foreground": "#ffffff",
-    "fontStyle": "bold"
-  },
-  "local": {
-    "foreground": "#50ffd3",
-    "fontStyle": ""
-  },
-  "parameter": {
-    "foreground": "#ff8ae0",
-    "fontStyle": "italic"
-  },
-  "field": {
-    "foreground": "#ffffff",
-    "fontStyle": ""
-  },
-  "field.static": {
-    "foreground": "#ffffff",
-    "fontStyle": ""
+    "property": {
+      "foreground": "#ffffff",
+      "fontStyle": "bold"
+    },
+    "local": {
+      "foreground": "#50ffd3",
+      "fontStyle": ""
+    },
+    "parameter": {
+      "foreground": "#ff8ae0",
+      "fontStyle": "italic"
+    },
+    "field": {
+      "foreground": "#ffffff",
+      "fontStyle": ""
+    },
+    "field.static": {
+      "foreground": "#ffffff",
+      "fontStyle": ""
     },
     "macro": {
       "foreground": "#E6E667",
@@ -782,7 +781,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#1c98a3",
+        "foreground": "#AE81FF",
         "fontStyle": ""
       }
     },

@@ -296,7 +296,7 @@
       "foreground": "#00F0FF",
       "fontStyle": ""
     },
-    "variable.defaultLibrary": "#2FDE73",
+  
     "class.defaultLibrary": {
       "foreground": "#2FDE73"
     },
@@ -816,7 +816,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#1c98a3",
+        "foreground": "#AE81FF",
         "fontStyle": ""
       }
     },

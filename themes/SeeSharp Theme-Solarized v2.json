@@ -306,7 +306,6 @@
       "foreground": "#00F0FF",
       "fontStyle": ""
     },
-    "variable.defaultLibrary": "#2FDE73",
     "class.defaultLibrary": {
       "foreground": "#2FDE73"
     },
@@ -685,36 +684,36 @@
         "fontStyle": ""
       }
     },
-      {
-        "scope": [
-          "support.type.vendored.property-name",
-          // "support.type.property-name",
-          "variable.other.less",
-          "source.coffee.embedded",
-          "variable.other.property",
-          "variable.other.constant.property",
-          "keyword.constant.numeric",
-        ],
-        "settings": {
-          "foreground": "#FB48C4",
-          "fontStyle": ""
-        }
-      },
-      {
-        "scope": [
-          //"support.type.vendored.property-name",
-          "support.type.property-name",
-          // "variable.other.less",
-          // "source.coffee.embedded",
-          // "variable.other.property",
-          // "variable.other.constant.property",
-          // "keyword.constant.numeric",
-        ],
-        "settings": {
-          "foreground": "#00b4fc",
-          "fontStyle": ""
-        }
-      },
+    {
+      "scope": [
+        "support.type.vendored.property-name",
+        // "support.type.property-name",
+        "variable.other.less",
+        "source.coffee.embedded",
+        "variable.other.property",
+        "variable.other.constant.property",
+        "keyword.constant.numeric",
+      ],
+      "settings": {
+        "foreground": "#FB48C4",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        //"support.type.vendored.property-name",
+        "support.type.property-name",
+        // "variable.other.less",
+        // "source.coffee.embedded",
+        // "variable.other.property",
+        // "variable.other.constant.property",
+        // "keyword.constant.numeric",
+      ],
+      "settings": {
+        "foreground": "#00b4fc",
+        "fontStyle": ""
+      }
+    },
     {
       "scope": [
         "string",
@@ -826,7 +825,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#1c98a3",
+        "foreground": "#AE81FF",
         "fontStyle": ""
       }
     },

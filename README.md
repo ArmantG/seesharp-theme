@@ -1,11 +1,5 @@
 # SeeSharp-theme
 
-## New
-
-Cobalt2 inspired blue theme theme with custom syntax colors.
-Original Cobalt2 theme by Wes Bos - wesbos.theme-cobalt2.
-Slightly darker background to make syntax colors pop.
-
 ### Description
 
 A colourful, vibrant syntax theme specifically for C# language. Pretty much just
@@ -14,7 +8,14 @@ look more interesting than it really was...
 
 Any feedback would be greatly appreciated, good or bad, changes, anything.
 
+Note:
+Note sure why, but there is a difference in some colors when using file scoped... I'll look into it.
+
 <br>
+
+## Material
+
+![Material](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/Material.png?raw=true)
 
 ## Cobalt Blue
 
