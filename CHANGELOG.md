@@ -2,7 +2,7 @@
 
 v0.1.0 - Initial release
 
-v 0.1.1 to 0.4.5 - Updated readme, updated colors for C#. Updated HTML and JS syntax colors. 
+v 0.1.1 to 0.4.5 - Updated readme, updated colors for C#. Updated HTML and JS syntax colors.
 
 V 0.4.6 - Fixed italics only font issue
 
@@ -19,3 +19,7 @@ v 2.1.0 - updated syntax to resolve file-scoped namespaces issue in .Net6 and C#
 V 3.0.0 - added alt themes to attempt to remedy the file scoped namespaces issue with color themes. added new screenshots
 
 V 3.0.1 to current - added two new themes. Minor color tweaks and adjustments.
+
+V 3.0.2 - 5.0.9 - minor color tweaks and adjustments.
+
+v 5.1.0 - added Material colored theme and fixed javascript syntax colors. (broke some C# when using file scoped but will fix in next release)
