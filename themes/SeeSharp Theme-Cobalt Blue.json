@@ -296,9 +296,9 @@
       "foreground": "#00F0FF",
       "fontStyle": ""
     },
-  
     "class.defaultLibrary": {
-      "foreground": "#2FDE73"
+      "foreground": "#588dff",
+      "fontStyle": "underline"
     },
     "class": {
       "foreground": "#588dff",
@@ -313,22 +313,23 @@
       "fontStyle": ""
     },
     "class.declaration": {
-      "foreground": "#2FDE73"
+      "foreground": "#588dff"
     },
     "enumMember": "#FF9EE7",
     "variable.readonly.defaultLibrary": "#FF9EE7",
     "function": "#00ed00",
     "function.defaultLibrary": "#00ed00",
-    "method": "#1eff78",
-    "keyword": "#FE2149",
-    "plainKeyword": {
-      "foreground": "#FE2149",
+    "method": {
+      "foreground": "#1eff78"
     },
+    "keyword": "#FE2149",
+    // "plainKeyword": {
+    //   "foreground": "#FE2149",
+    // },
     "controlKeyword": "#FE2149",
     "preprocessorKeyword": "#FE2149",
     "method.static": {
-      "foreground": "#1eff78",
-      "fontStyle": "bold"
+      "foreground": "#E6E667"
     },
     "property": {
       "foreground": "#ffffff",
@@ -336,7 +337,7 @@
     },
     "local": {
       "foreground": "#50ffd3",
-      "fontStyle": ""
+      "fontStyle": "italic"
     },
     "parameter": {
       "foreground": "#ff8ae0",
@@ -352,11 +353,11 @@
     },
     "macro": {
       "foreground": "#E6E667",
-      "fontStyle": "italic"
+      "fontStyle": "bold"
     },
     "event": {
       "foreground": "#E6E667",
-      "fontStyle": "italic"
+      "fontStyle": "bold"
     }
   },
   "tokenColors": [
@@ -579,20 +580,6 @@
     },
     {
       "scope": [
-        "variable.css",
-        "variable.scss",
-        "entity.other.inherited-class",
-        "entity.name.scope-resolution",
-        "entity.other.attribute",
-        "keyword.primitive-datatypes.swift",
-        "keyword.type.cs"
-      ],
-      "settings": {
-        "foreground": "#00F0FF"
-      }
-    },
-    {
-      "scope": [
         "storage.class.std.rust",
         "storage.type.annotation.groovy",
         "storage.type.annotation.java",
@@ -629,6 +616,13 @@
         "storage.type.token.java",
         "storage.type.uintptr.go",
         "storage.type.variable.cs",
+        "variable.css",
+        "variable.scss",
+        "entity.other.inherited-class",
+        "entity.name.scope-resolution",
+        "entity.other.attribute",
+        "keyword.primitive-datatypes.swift",
+        "keyword.type.cs"
       ],
       "settings": {
         "foreground": "#00FFFF",
@@ -668,10 +662,10 @@
     {
       "name": "Operators",
       "scope": [
-        "keyword.operator",
+        "keyword.operator"
       ],
       "settings": {
-        "foreground": "#019ba9",
+        "foreground": "#FE2149",
         "fontStyle": ""
       }
     },
@@ -732,18 +726,6 @@
     },
     {
       "scope": [
-        "entity.name.type.keyword",
-        "entity.name.type.namespace",
-        "keyword.other.using",
-        "keyword.other.namespace",
-      ],
-      "settings": {
-        "foreground": "#FE2149",
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "scope": [
         "storage.modifier",
         "storage.type.modifier",
         "entity.name.operator",
@@ -782,7 +764,10 @@
         "keyword.other.important",
         "keyword.other.new",
         "keyword.other",
-        // "keyword"
+        "entity.name.type.keyword",
+        "entity.name.type.namespace",
+        "keyword.other.using",
+        "keyword.other.namespace"
       ],
       "settings": {
         "foreground": "#FE2149",
@@ -791,18 +776,12 @@
     },
     {
       "scope": [
-        "storage.type"
-      ],
-      "settings": {
-        "foreground": "#4FE0E0"
-      }
-    },
-    {
-      "scope": [
+        "storage.type",
         "storage.type.js"
       ],
       "settings": {
-        "foreground": "#ff5171"
+        "foreground": "#4FE0E0",
+        "fontStyle": "italic"
       }
     },
     {
