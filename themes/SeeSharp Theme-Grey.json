@@ -132,15 +132,16 @@
     "controlKeyword": "#FE2149",
     "preprocessorKeyword": "#FE2149",
     "method.static": {
-      "foreground": "#E6E667"
+      "foreground": "#1eff78",
+      "fontStyle": ""
     },
     "property": {
       "foreground": "#ffffff",
       "fontStyle": "bold"
     },
     "local": {
-      "foreground": "#50ffd3",
-      "fontStyle": "italic"
+      "foreground": "#b2ffec",
+      "fontStyle": ""
     },
     "parameter": {
       "foreground": "#ff8ae0",
@@ -428,8 +429,8 @@
         "keyword.type.cs"
       ],
       "settings": {
-        "foreground": "#00FFFF",
-        "fontStyle": "bold"
+        "foreground": "#fe5472",
+        "fontStyle": "italic"
       }
     },
     {
@@ -524,7 +525,8 @@
         "storage"
       ],
       "settings": {
-        "foreground": "#35F6F6"
+        "foreground": "#35F6F6",
+        "fontStyle": "italic"
       }
     },
     {
