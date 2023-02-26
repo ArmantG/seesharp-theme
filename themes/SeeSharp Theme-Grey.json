@@ -304,7 +304,8 @@
     },
     {
       "scope": [
-        "entity.name.label"
+        "entity.name.label",
+        "entity.name.namespace"
       ],
       "settings": {
         "foreground": "#D3D1EB"
@@ -325,11 +326,11 @@
 
         "variable.language.arguments",
         "variable.other.object",
-        "string.quoted.template variable.other.readwrite",
-        "entity.name.namespace"
+        "string.quoted.template variable.other.readwrite"
+
       ],
       "settings": {
-        "foreground": "#D3D1EB",
+        "foreground": "#588dff",
         "fontStyle": ""
       }
     },
