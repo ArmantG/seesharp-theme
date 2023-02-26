@@ -95,7 +95,7 @@
       "fontStyle": "bold"
     },
     "local": {
-      "foreground": "#b2ffec",
+      "foreground": "#42f5d8",
       "fontStyle": ""
     },
     "parameter": {
@@ -104,11 +104,11 @@
     },
     "field": {
       "foreground": "#ffffff",
-      "fontStyle": ""
+      "fontStyle": "italic"
     },
     "field.static": {
       "foreground": "#ffffff",
-      "fontStyle": ""
+      "fontStyle": "italic"
     },
     "macro": {
       "foreground": "#E6E667",
@@ -139,7 +139,7 @@
         "source"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -268,13 +268,23 @@
     {
       "scope": [
         "variable.parameter",
+        "entity.name.type.type-parameter"
+      ],
+      "settings": {
+        "foreground": "#00D2B3",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+
         "variable.language.arguments",
         "variable.other.object",
         "string.quoted.template variable.other.readwrite",
         "entity.name.namespace"
       ],
       "settings": {
-        "foreground": "#d5d4d4",
+        "foreground": "#D3D1EB",
         "fontStyle": ""
       }
     },
@@ -384,7 +394,7 @@
         "keyword.type.cs"
       ],
       "settings": {
-        "foreground": "#fe5472",
+        "foreground": "#00F0FF",
         "fontStyle": "italic"
       }
     },
@@ -833,14 +843,14 @@
         "foreground": "#50B6FF"
       }
     },
-    {
-      "scope": [
-        "support.constant.property-value"
-      ],
-      "settings": {
-        "foreground": "#D3D1EB"
-      }
-    },
+    // {
+    //   "scope": [
+    //     "support.constant.property-value"
+    //   ],
+    //   "settings": {
+    //     "foreground": "#D3D1EB"
+    //   }
+    // },
     {
       "scope": [
         "punctuation.separator.key-value"
@@ -975,7 +985,7 @@
     },
     {
       "scope": [
-        "entity.name.type.type-parameter",
+
         "meta.indexer.mapped type.declaration entity.name.type",
         "meta.type.parameters entity.name.type"
       ],
