@@ -422,7 +422,7 @@
       "name": "Variable",
       "scope": ["variable", "entity.name.variable"],
       "settings": {
-        "foreground": "#A784FF",
+        "foreground": "#BCA5F7",
         "fontStyle": "italic"
       }
     },
