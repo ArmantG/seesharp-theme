@@ -6,6 +6,8 @@ A colourful, vibrant syntax theme specifically for C# language. Pretty much just
 went with what I liked, what kept my eyes engaged and what made what I was doing
 look more interesting than it really was...
 
+Updated Javascript syntax as well...Hopefully it's not too much of a mess.
+
 Any feedback would be greatly appreciated, good or bad, changes, anything.
 
 Note:
@@ -13,7 +15,7 @@ Note sure why, but there is a difference in some colors when using file scoped..
 
 <br>
 
-## Material
+<!-- ## Material
 
 ![Material](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/Material.png?raw=true)
 
@@ -61,7 +63,7 @@ Note sure why, but there is a difference in some colors when using file scoped..
 
 ![React ](https://github.com/ArmantG/seesharp-theme/blob/main/screenshots/React%20dark%20alt.png?raw=true)
 
-<br>
+<br> -->
 
 ### Activate theme
 
