@@ -6,12 +6,7 @@
   "colorScheme": "SeeSharp Color Scheme",
   "focusBorder": "ON",
   "colors": {
-    "editorBracketHighlight.foreground1": "#00FF64",
-    "editorBracketHighlight.foreground2": "#FFEA00",
-    "editorBracketHighlight.foreground3": "#00FFFF",
-    "editorBracketHighlight.foreground4": "#AB80FF",
-    "editorBracketHighlight.foreground5": "#E63AC8",
-    "editorBracketHighlight.foreground6": "#59BAFF",
+
     "foreground": "#ffffff",
     "activityBar.background": "#353535",
     "activityBar.foreground": "#ffffff",
@@ -86,6 +81,13 @@
     "gitDecoration.stageModifiedResourceForeground": "#aa99ffbf",
     "gitDecoration.submoduleResourceForeground": "#ffdf40",
     "gitDecoration.untrackedResourceForeground": "#28CCCC"
+    "editorBracketHighlight.foreground1": "#4baefe",
+    "editorBracketHighlight.foreground2": "#f8fb4a",
+    "editorBracketHighlight.foreground3": "#c172d9",
+    "editorBracketHighlight.foreground4": "#36c5d5",
+    "editorBracketHighlight.foreground5": "#8bfa1c",
+    "editorBracketHighlight.foreground6": "#fbb53d",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ed6367"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {

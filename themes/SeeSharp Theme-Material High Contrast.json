@@ -185,7 +185,14 @@
     "listFilterWidget.background": "#00000030",
     "listFilterWidget.outline": "#00000030",
     "listFilterWidget.noMatchesOutline": "#00000030",
-    "tree.indentGuidesStroke": "#37474F"
+    "tree.indentGuidesStroke": "#37474F",
+    "editorBracketHighlight.foreground1": "#4baefe",
+    "editorBracketHighlight.foreground2": "#f8fb4a",
+    "editorBracketHighlight.foreground3": "#c172d9",
+    "editorBracketHighlight.foreground4": "#36c5d5",
+    "editorBracketHighlight.foreground5": "#8bfa1c",
+    "editorBracketHighlight.foreground6": "#fbb53d",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ed6367"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
