@@ -76,5 +76,8 @@
     "publisherDisplayName": null,
     "publisherId": "7ae80d0e-191a-46c4-b6ce-841c8df15f2c",
     "isPreReleaseVersion": false
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }

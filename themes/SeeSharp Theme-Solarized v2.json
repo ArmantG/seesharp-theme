@@ -292,7 +292,7 @@
     "gitDecoration.stageDeletedResourceForeground": "#f22468bf",
     "gitDecoration.stageModifiedResourceForeground": "#aa99ffbf",
     "gitDecoration.submoduleResourceForeground": "#ffdf40",
-    "gitDecoration.untrackedResourceForeground": "#28CCCC"
+    "gitDecoration.untrackedResourceForeground": "#28CCCC",
     "editorBracketHighlight.foreground1": "#4baefe",
     "editorBracketHighlight.foreground2": "#f8fb4a",
     "editorBracketHighlight.foreground3": "#c172d9",

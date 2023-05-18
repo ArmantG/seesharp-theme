@@ -287,7 +287,7 @@
   "titleBar.activeForeground": "#51727C",
   "titleBar.inactiveBackground": "#0d151a",
   "titleBar.inactiveForeground": "#51727C",
-  "titleBar.border": "#0d151a"
+  "titleBar.border": "#0d151a",
   "editorBracketHighlight.foreground1": "#4baefe",
     "editorBracketHighlight.foreground2": "#f8fb4a",
     "editorBracketHighlight.foreground3": "#c172d9",
