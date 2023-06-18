@@ -250,7 +250,7 @@
       "foreground": "#4EFDDA",
       "fontStyle": "italic"
     },
-      "parameter": {
+    "parameter": {
       "foreground": "#ff8ae0",
       "fontStyle": "italic"
     },
@@ -339,7 +339,6 @@
     },
     {
       "scope": [
-
         "variable.language.self",
         "entity.type.enum",
         "variable.other.object.property",
@@ -368,7 +367,9 @@
     },
     {
       "scope": [
-        "keyword.operator.accessor"
+        "keyword.operator.accessor",
+        "entity.name.tag.class.jsx",
+        "JSXNested"
       ],
       "settings": {
         "foreground": "#50BCFF",
@@ -420,14 +421,20 @@
     },
     {
       "name": "JS Export",
-      "scope": ["keyword.control.export.js", "keyword.control.import.js"],
+      "scope": [
+        "keyword.control.export.js",
+        "keyword.control.import.js"
+      ],
       "settings": {
         "foreground": "#72f1b8"
       }
     },
     {
       "name": "Variable",
-      "scope": ["variable", "entity.name.variable"],
+      "scope": [
+        "variable",
+        "entity.name.variable"
+      ],
       "settings": {
         "foreground": "#BCA5F7",
         "fontStyle": "italic"
@@ -799,7 +806,8 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#FFEA00"
+        "foreground": "#1eff78",
+        "fontStyle": "bold italic"
       }
     },
     {
@@ -1152,7 +1160,6 @@
     },
     {
       "scope": [
-
         "meta.indexer.mapped type.declaration entity.name.type",
         "meta.type.parameters entity.name.type"
       ],

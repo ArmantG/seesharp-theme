@@ -702,7 +702,8 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#FFEA00"
+        "foreground": "#1eff78",
+        "fontStyle": "bold italic"
       }
     },
     {

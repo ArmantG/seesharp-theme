@@ -636,20 +636,21 @@
         "foreground": "#E6E667"
       }
     },
-    {
-      "scope": [
-        "constant.other.color",
-        "constant.other.symbol",
-        "punctuation.definition.block.tag",
-        "punctuation.accessor",
-        "punctuation.definition.typeparameters",
-        "punctuation.separator",
-        "support.class.component"
-      ],
-      "settings": {
-        "foreground": "#FFEA00"
-      }
-    },
+  {
+    "scope": [
+      "constant.other.color",
+      "constant.other.symbol",
+      "punctuation.definition.block.tag",
+      "punctuation.accessor",
+      "punctuation.definition.typeparameters",
+      "punctuation.separator",
+      "support.class.component"
+    ],
+    "settings": {
+      "foreground": "#1eff78",
+      "fontStyle": "bold italic"
+    }
+  },
     {
       "scope": [
         "meta.attribute.href.html",
