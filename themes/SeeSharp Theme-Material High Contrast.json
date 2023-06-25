@@ -195,13 +195,15 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#ed6367"
   },
   "semanticHighlighting": true,
-  "semanticTokenColors": {
+"semanticTokenColors": {
     "type": "#2FDE73",
     "interface": {
       "foreground": "#a172fe",
       "fontStyle": ""
     },
-    "enum": "#2FDE73",
+    "enum": {"foreground":"#2FDE73", "fontStyle":"italic" 
+  },
+
     "struct": {
       "foreground": "#00F0FF",
       "fontStyle": ""
@@ -243,24 +245,24 @@
       "fontStyle": ""
     },
     "property": {
-      "foreground": "#ffffff",
-      "fontStyle": "bold"
-    },
-    "local": {
-      "foreground": "#4EFDDA",
+      "foreground": "#BDEFEC",
       "fontStyle": "italic"
     },
+    "local": {
+      "foreground": "#21C1AE",
+      "fontStyle": ""
+    },
     "parameter": {
-      "foreground": "#ff8ae0",
+      "foreground": "#EB886F",
       "fontStyle": "italic"
     },
     "field": {
-      "foreground": "#ffffff",
-      "fontStyle": ""
+      "foreground": "#ff8ae0",
+      "fontStyle": "underline"
     },
     "field.static": {
-      "foreground": "#ffffff",
-      "fontStyle": ""
+      "foreground": "#ff8ae0",
+      "fontStyle": "underline"
     },
     "macro": {
       "foreground": "#E6E667",
@@ -287,13 +289,21 @@
     },
     {
       "scope": [
-        "text",
+        
         "source"
       ],
       "settings": {
         "foreground": "#ffffff"
       }
     },
+      {
+        "scope": [
+          "text"
+        ],
+        "settings": {
+          "foreground": "#E1ED45"
+        }
+      },
     {
       "scope": [
         "emphasis"
@@ -446,7 +456,7 @@
         "entity.name.type.type-parameter"
       ],
       "settings": {
-        "foreground": "#00D2B3",
+        "foreground": "#21C1AE",
         "fontStyle": ""
       }
     },
@@ -723,8 +733,8 @@
         "storage.type.js"
       ],
       "settings": {
-        "foreground": "#4FE0E0",
-        "fontStyle": "italic bold"
+        "foreground": "#FE2149",
+        "fontStyle": "bold"
       }
     },
     {
@@ -738,7 +748,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#9D59F8",
+        "foreground": "#fff",
         "fontStyle": "bold"
       }
     },
@@ -817,7 +827,7 @@
         "punctuation.definition.tag.tsx"
       ],
       "settings": {
-        "foreground": "#fff9fa"
+        "foreground": "#DEF7F5"
       }
     },
     {
