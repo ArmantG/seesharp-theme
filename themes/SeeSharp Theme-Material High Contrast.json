@@ -235,9 +235,6 @@
       "foreground": "#1eff78"
     },
     "keyword": "#FE2149",
-    // "plainKeyword": {
-    //   "foreground": "#FE2149",
-    // },
     "controlKeyword": "#FE2149",
     "preprocessorKeyword": "#FE2149",
     "method.static": {
@@ -358,14 +355,7 @@
         "foreground": "#FF9243"
       }
     },
-    // {
-    //   "scope": [
-    //     "keyword.operator",
-    //   ],
-    //   "settings": {
-    //     "foreground": "#000000"
-    //   }
-    // },
+   
     {
       "scope": [
         "entity.name.type"
@@ -603,8 +593,7 @@
       "scope": [
         "entity.name.function.member",
         "support.function",
-        "entity.name.function.method",
-        // "support.function.any-method",
+        "entity.name.function.method"
       ],
       "settings": {
         "foreground": "#07fb69",
@@ -624,7 +613,6 @@
     {
       "scope": [
         "support.type.vendored.property-name",
-        // "support.type.property-name",
         "variable.other.less",
         "source.coffee.embedded",
         "variable.other.property",
@@ -638,13 +626,9 @@
     },
     {
       "scope": [
-        //"support.type.vendored.property-name",
         "support.type.property-name",
-        // "variable.other.less",
-        // "source.coffee.embedded",
         "variable.other.property",
-        "variable.other.constant.property",
-        // "keyword.constant.numeric",
+        "variable.other.constant.property"
       ],
       "settings": {
         "foreground": "#00b4fc",

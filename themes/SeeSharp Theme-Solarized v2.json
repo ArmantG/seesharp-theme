@@ -96,8 +96,8 @@
     "editorGroup.dropBackground": "#47cfc415",
     "editorHoverWidget.background": "#022f3a",
     "editorHoverWidget.border": "#001418",
-    "editorIndentGuide.background": "#54778330",
-    "editorIndentGuide.activeBackground": "#547783bb",
+    "editorIndentGuide.background1": "#54778330",
+    "editorIndentGuide.activeBackground1": "#547783bb",
     "editorLink.activeForeground": "#cedbdb",
     "editorGutter.commentRangeForeground": "#022f3a",
     "sash.hoverBorder": "#47cfc450",
@@ -300,6 +300,84 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#ed6367"
   },
   "semanticHighlighting": true,
+  "semanticTokenColors": {
+      "type": "#2FDE73",
+      "interface": {
+        "foreground": "#a172fe",
+        "fontStyle": ""
+      },
+      "enum": {"foreground":"#2FDE73", "fontStyle":"italic" 
+    },
+  
+      "struct": {
+        "foreground": "#00F0FF",
+        "fontStyle": ""
+      },
+      "class.defaultLibrary": {
+        "foreground": "#588dff",
+        "fontStyle": "underline"
+      },
+      "class": {
+        "foreground": "#588dff",
+        "fontStyle": ""
+      },
+      "class.static": {
+        "foreground": "#588dff",
+        "fontStyle": ""
+      },
+      "class.readonly": {
+        "foreground": "#588dff",
+        "fontStyle": ""
+      },
+      "class.declaration": {
+        "foreground": "#588dff"
+      },
+      "enumMember": "#FF9EE7",
+      "variable.readonly.defaultLibrary": "#FF9EE7",
+      "function": "#00ed00",
+      "function.defaultLibrary": "#00ed00",
+      "method": {
+        "foreground": "#1eff78"
+      },
+      "keyword": "#FE2149",
+      // "plainKeyword": {
+      //   "foreground": "#FE2149",
+      // },
+      "controlKeyword": "#FE2149",
+      "preprocessorKeyword": "#FE2149",
+      "method.static": {
+        "foreground": "#1eff78",
+        "fontStyle": ""
+      },
+      "property": {
+        "foreground": "#BDEFEC",
+        "fontStyle": "italic"
+      },
+      "local": {
+        "foreground": "#21C1AE",
+        "fontStyle": ""
+      },
+      "parameter": {
+        "foreground": "#EB886F",
+        "fontStyle": "italic"
+      },
+      "field": {
+        "foreground": "#ff8ae0",
+        "fontStyle": "underline"
+      },
+      "field.static": {
+        "foreground": "#ff8ae0",
+        "fontStyle": "underline"
+      },
+      "macro": {
+        "foreground": "#E6E667",
+        "fontStyle": "bold"
+      },
+      "event": {
+        "foreground": "#E6E667",
+        "fontStyle": "bold"
+      }
+    },
     "tokenColors": [
       {
         "scope": [
@@ -316,13 +394,21 @@
       },
       {
         "scope": [
-          "text",
+          
           "source"
         ],
         "settings": {
           "foreground": "#ffffff"
         }
       },
+        {
+          "scope": [
+            "text"
+          ],
+          "settings": {
+            "foreground": "#E1ED45"
+          }
+        },
       {
         "scope": [
           "emphasis"
@@ -475,7 +561,7 @@
           "entity.name.type.type-parameter"
         ],
         "settings": {
-          "foreground": "#00D2B3",
+          "foreground": "#21C1AE",
           "fontStyle": ""
         }
       },
@@ -752,8 +838,8 @@
           "storage.type.js"
         ],
         "settings": {
-          "foreground": "#4FE0E0",
-          "fontStyle": "italic"
+          "foreground": "#FE2149",
+          "fontStyle": "bold"
         }
       },
       {
@@ -767,8 +853,8 @@
           "support.constant"
         ],
         "settings": {
-          "foreground": "#9D59F8",
-          "fontStyle": ""
+          "foreground": "#fff",
+          "fontStyle": "bold"
         }
       },
       {
@@ -836,7 +922,7 @@
         ],
         "settings": {
           "foreground": "#1eff78",
-          "fontStyle": " italic"
+          "fontStyle": "bold italic"
         }
       },
       {
@@ -846,7 +932,7 @@
           "punctuation.definition.tag.tsx"
         ],
         "settings": {
-          "foreground": "#fff9fa"
+          "foreground": "#DEF7F5"
         }
       },
       {
@@ -1427,7 +1513,7 @@
           "keyword.operator.new"
         ],
         "settings": {
-          "fontStyle": ""
+          "fontStyle": "bold italic"
         }
       },
       {
