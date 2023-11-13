@@ -195,15 +195,13 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#ed6367"
   },
   "semanticHighlighting": true,
-"semanticTokenColors": {
+  "semanticTokenColors": {
     "type": "#2FDE73",
     "interface": {
       "foreground": "#a172fe",
       "fontStyle": ""
     },
-    "enum": {"foreground":"#2FDE73", "fontStyle":"italic" 
-  },
-
+    "enum": "#2FDE73",
     "struct": {
       "foreground": "#00F0FF",
       "fontStyle": ""
@@ -242,24 +240,24 @@
       "fontStyle": ""
     },
     "property": {
-      "foreground": "#BDEFEC",
-      "fontStyle": "italic"
+      "foreground": "#ffffff",
+      "fontStyle": "bold"
     },
     "local": {
-      "foreground": "#21C1AE",
-      "fontStyle": ""
+      "foreground": "#4EFDDA",
+      "fontStyle": "italic"
     },
     "parameter": {
-      "foreground": "#EB886F",
+      "foreground": "#ff8ae0",
       "fontStyle": "italic"
     },
     "field": {
-      "foreground": "#ff8ae0",
-      "fontStyle": "underline"
+      "foreground": "#ffffff",
+      "fontStyle": ""
     },
     "field.static": {
-      "foreground": "#ff8ae0",
-      "fontStyle": "underline"
+      "foreground": "#ffffff",
+      "fontStyle": ""
     },
     "macro": {
       "foreground": "#E6E667",
@@ -286,21 +284,13 @@
     },
     {
       "scope": [
-        
+        "text",
         "source"
       ],
       "settings": {
         "foreground": "#ffffff"
       }
     },
-      {
-        "scope": [
-          "text"
-        ],
-        "settings": {
-          "foreground": "#E1ED45"
-        }
-      },
     {
       "scope": [
         "emphasis"
@@ -355,7 +345,6 @@
         "foreground": "#FF9243"
       }
     },
-   
     {
       "scope": [
         "entity.name.type"
@@ -446,7 +435,7 @@
         "entity.name.type.type-parameter"
       ],
       "settings": {
-        "foreground": "#21C1AE",
+        "foreground": "#00D2B3",
         "fontStyle": ""
       }
     },
@@ -613,6 +602,7 @@
     {
       "scope": [
         "support.type.vendored.property-name",
+        
         "variable.other.less",
         "source.coffee.embedded",
         "variable.other.property",
@@ -717,8 +707,8 @@
         "storage.type.js"
       ],
       "settings": {
-        "foreground": "#FE2149",
-        "fontStyle": "bold"
+        "foreground": "#4FE0E0",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -732,7 +722,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#fff",
+        "foreground": "#9D59F8",
         "fontStyle": "bold"
       }
     },
@@ -811,7 +801,7 @@
         "punctuation.definition.tag.tsx"
       ],
       "settings": {
-        "foreground": "#DEF7F5"
+        "foreground": "#fff9fa"
       }
     },
     {
