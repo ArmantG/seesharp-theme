@@ -9,7 +9,7 @@
   "name": "seesharp-theme",
   "displayName": "SeeSharp Theme",
   "description": "A colourful vibrant syntax theme for C#, Svelte, JavaScript, TypeScript, CSS, HTML, and Python.",
-  "version": "5.1.13",
+  "version": "5.1.14",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -67,6 +67,16 @@
         "label": "SeeSharp Theme-Material High Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/SeeSharp Theme-Material High Contrast.json"
+      },
+      {
+        "label": "SeeSharp Theme - Neon Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Neon Noir.json"
+      },
+      {
+        "label": "SeeSharp Theme - Aurora Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Aurora Ember.json"
       }
     ]
   },
