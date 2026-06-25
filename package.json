@@ -1,0 +1,83 @@
+{
+  "author": "Armant Goldswain",
+  "publisher": "ArmantGoldswain",
+  "homepage": "https://github.com/ArmantG/seesharp-theme/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArmantG/seesharp-theme"
+  },
+  "name": "seesharp-theme",
+  "displayName": "SeeSharp Theme",
+  "description": "A colourful vibrant syntax theme for C#, Svelte, JavaScript, TypeScript, CSS, HTML, and Python.",
+  "version": "5.1.12",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SeeSharp Theme - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Dark.json"
+      },
+      {
+        "label": "SeeSharp Theme - Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Grey.json"
+      },
+      {
+        "label": "SeeSharp Theme - Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Blue.json"
+      },
+      {
+        "label": "SeeSharp Theme - Cobalt Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Cobalt Blue.json"
+      },
+      {
+        "label": "SeeSharp Theme - Syntax Only",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Syntax Only.json"
+      },
+      {
+        "label": "SeeSharp Theme - Solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Solarized.json"
+      },
+      {
+        "label": "SeeSharp Theme - Oceanic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Oceanic.json"
+      },
+      {
+        "label": "SeeSharp Theme - Solarized V2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Solarized v2.json"
+      },
+      {
+        "label": "SeeSharp Theme - Tailwind",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Tailwind.json"
+      },
+      {
+        "label": "SeeSharp Theme-Material High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Material High Contrast.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "__metadata": {
+    "id": "1f423455-feb8-4618-b7bb-6e3a4b9b528c",
+    "publisherDisplayName": null,
+    "publisherId": "7ae80d0e-191a-46c4-b6ce-841c8df15f2c",
+    "isPreReleaseVersion": false
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
