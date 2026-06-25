@@ -9,7 +9,7 @@
   "name": "seesharp-theme",
   "displayName": "SeeSharp Theme",
   "description": "A colourful vibrant syntax theme for C#, Svelte, JavaScript, TypeScript, CSS, HTML, and Python.",
-  "version": "5.1.12",
+  "version": "5.1.13",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -77,7 +77,7 @@
     "publisherId": "7ae80d0e-191a-46c4-b6ce-841c8df15f2c",
     "isPreReleaseVersion": false
   },
-  "dependencies": {
+  "devDependencies": {
     "vsce": "^2.15.0"
   }
 }
