@@ -9,7 +9,7 @@
   "name": "seesharp-theme",
   "displayName": "SeeSharp Theme",
   "description": "A colourful vibrant syntax theme for C#, Svelte, JavaScript, TypeScript, CSS, HTML, and Python.",
-  "version": "5.1.18",
+  "version": "5.1.21",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -109,14 +109,29 @@
         "path": "./themes/SeeSharp Theme-Ocean Breeze.json"
       },
       {
+        "label": "SeeSharp Theme - Ocean Breeze Original Semantic Colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Ocean Breeze Original Semantic Colors.json"
+      },
+      {
         "label": "SeeSharp Theme - Frost Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/SeeSharp Theme-Frost Gray.json"
       },
       {
+        "label": "SeeSharp Theme - Frost Gray Original Semantic Colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Frost Gray Original Semantic Colors.json"
+      },
+      {
         "label": "SeeSharp Theme - Verdant",
         "uiTheme": "vs-dark",
         "path": "./themes/SeeSharp Theme-Verdant.json"
+      },
+      {
+        "label": "SeeSharp Theme - Verdant Original Semantic Colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeeSharp Theme-Verdant Original Semantic Colors.json"
       }
     ]
   },

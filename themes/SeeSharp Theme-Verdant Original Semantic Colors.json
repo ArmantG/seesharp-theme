@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "SeeSharp Theme - Verdant",
+  "name": "SeeSharp Theme - Verdant Original Semantic Colors",
   "type": "dark",
   "colors": {
     "foreground": "#E8F5E9",
@@ -94,9 +94,9 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "namespace": "#D3D1EB",
+    "namespace": "#d3d3d3",
     "namespace.defaultLibrary": {
-      "foreground": "#72f1b8",
+      "foreground": "#d3d3d3",
       "fontStyle": "underline"
     },
     "type": "#2FDE73",
@@ -105,7 +105,7 @@
       "fontStyle": "bold"
     },
     "type.defaultLibrary": {
-      "foreground": "#00F0FF",
+      "foreground": "#00c3ff",
       "fontStyle": "italic"
     },
     "typeParameter": {
@@ -113,31 +113,31 @@
       "fontStyle": ""
     },
     "class": {
-      "foreground": "#739FFF",
+      "foreground": "#588dff",
       "fontStyle": ""
     },
     "class.declaration": {
-      "foreground": "#739FFF",
+      "foreground": "#588dff",
       "fontStyle": "bold"
     },
     "class.defaultLibrary": {
-      "foreground": "#739FFF",
+      "foreground": "#588dff",
       "fontStyle": "underline"
     },
     "class.static": {
-      "foreground": "#739FFF",
+      "foreground": "#588dff",
       "fontStyle": ""
     },
     "class.readonly": {
-      "foreground": "#739FFF",
+      "foreground": "#588dff",
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#AB80FF",
+      "foreground": "#a172fe",
       "fontStyle": ""
     },
     "interface.declaration": {
-      "foreground": "#AB80FF",
+      "foreground": "#a172fe",
       "fontStyle": "bold"
     },
     "enum": "#2FDE73",
@@ -146,11 +146,11 @@
       "fontStyle": "bold"
     },
     "struct": {
-      "foreground": "#35F6F6",
+      "foreground": "#00F0FF",
       "fontStyle": ""
     },
     "struct.declaration": {
-      "foreground": "#35F6F6",
+      "foreground": "#00F0FF",
       "fontStyle": "bold"
     },
     "enumMember": "#FF9EE7",
@@ -165,7 +165,7 @@
     },
     "variable.defaultLibrary": "#FF9EE7",
     "variable.readonly": {
-      "foreground": "#FB48C4",
+      "foreground": "#9D59F8",
       "fontStyle": "bold"
     },
     "variable.readonly.defaultLibrary": "#FF9EE7",
@@ -194,7 +194,7 @@
       "fontStyle": "bold"
     },
     "property.defaultLibrary": {
-      "foreground": "#00F0FF",
+      "foreground": "#00c3ff",
       "fontStyle": "italic"
     },
     "property.readonly": {
@@ -217,33 +217,33 @@
       "foreground": "#FB48C4",
       "fontStyle": ""
     },
-    "function": "#07FB3C",
+    "function": "#00ed00",
     "function.declaration": {
-      "foreground": "#07FB3C",
+      "foreground": "#00ed00",
       "fontStyle": "bold"
     },
-    "function.defaultLibrary": "#07FB3C",
+    "function.defaultLibrary": "#00ed00",
     "function.async": {
-      "foreground": "#07FB3C",
+      "foreground": "#00ed00",
       "fontStyle": "italic"
     },
     "method": {
-      "foreground": "#07fb69"
+      "foreground": "#1eff78"
     },
     "method.declaration": {
-      "foreground": "#07fb69",
+      "foreground": "#1eff78",
       "fontStyle": "bold"
     },
     "method.defaultLibrary": {
-      "foreground": "#07fb69",
+      "foreground": "#1eff78",
       "fontStyle": "underline"
     },
     "method.static": {
-      "foreground": "#07fb69",
+      "foreground": "#1eff78",
       "fontStyle": "bold"
     },
     "method.async": {
-      "foreground": "#07fb69",
+      "foreground": "#1eff78",
       "fontStyle": "italic"
     },
     "decorator": {
@@ -258,7 +258,7 @@
       "foreground": "#E6E667",
       "fontStyle": "bold"
     },
-    "label": "#D3D1EB",
+    "label": "#d3d3d3",
     "comment": {
       "foreground": "#8D8D8D",
       "fontStyle": "italic"
@@ -270,8 +270,8 @@
     "string": "#ECEC0E",
     "number": "#ff02ee",
     "regexp": "#2FDE73",
-    "keyword": "#72f1b8",
-    "controlKeyword": "#72f1b8",
+    "keyword": "#FE2149",
+    "controlKeyword": "#FE2149",
     "preprocessorKeyword": "#FE2149",
     "modifier": {
       "foreground": "#FE2149",
