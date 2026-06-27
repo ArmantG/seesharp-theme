@@ -339,7 +339,7 @@
         "punctuation.definition.comment.python"
       ],
       "settings": {
-        "foreground": "#3D6E3D",
+        "foreground": "#8D8D8D",
         "fontStyle": "italic"
       }
     },
@@ -349,7 +349,7 @@
         "source"
       ],
       "settings": {
-        "foreground": "#E8EAED"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -367,13 +367,14 @@
     {
       "scope": "invalid",
       "settings": {
-        "foreground": "#FF3355",
+        "foreground": "#E6457B",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "invalid.deprecated",
       "settings": {
+        "foreground": "#99611F",
         "fontStyle": "underline italic"
       }
     },
@@ -398,7 +399,7 @@
     {
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#5AFF8A",
+        "foreground": "#2FDE73",
         "fontStyle": "bold"
       }
     },
@@ -409,14 +410,14 @@
         "JSXNested"
       ],
       "settings": {
-        "foreground": "#7AD0FF",
+        "foreground": "#50BCFF",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#00FF41"
+        "foreground": "#fe395d"
       }
     },
     {
@@ -426,19 +427,19 @@
         "variable.other.event"
       ],
       "settings": {
-        "foreground": "#FFB86C"
+        "foreground": "#E6E667"
       }
     },
     {
       "scope": "constant.character",
       "settings": {
-        "foreground": "#55FFBB"
+        "foreground": "#4FE0E0"
       }
     },
     {
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#FF79C6"
+        "foreground": "#FB48C4"
       }
     },
     {
@@ -447,7 +448,7 @@
         "entity.name.namespace"
       ],
       "settings": {
-        "foreground": "#A8FFC8"
+        "foreground": "#d3d3d3"
       }
     },
     {
@@ -465,7 +466,7 @@
         "keyword.control.import.python"
       ],
       "settings": {
-        "foreground": "#66FFA8"
+        "foreground": "#72f1b8"
       }
     },
     {
@@ -480,7 +481,7 @@
         "variable.other.readwrite.python"
       ],
       "settings": {
-        "foreground": "#A8FFC8",
+        "foreground": "#BCA5F7",
         "fontStyle": "italic"
       }
     },
@@ -496,7 +497,7 @@
         "meta.function.parameters.python variable.parameter"
       ],
       "settings": {
-        "foreground": "#FF8AE0",
+        "foreground": "#ff8ae0",
         "fontStyle": "italic"
       }
     },
@@ -506,7 +507,7 @@
         "entity.name.type.type-parameter"
       ],
       "settings": {
-        "foreground": "#55FFBB",
+        "foreground": "#00D2B3",
         "fontStyle": ""
       }
     },
@@ -530,7 +531,7 @@
         "support.type.primitive.tsx"
       ],
       "settings": {
-        "foreground": "#55FFBB",
+        "foreground": "#00c3ff",
         "fontStyle": "italic"
       }
     },
@@ -542,7 +543,7 @@
         "variable.other.enummember"
       ],
       "settings": {
-        "foreground": "#FF79C6",
+        "foreground": "#FF4CD2",
         "fontStyle": ""
       }
     },
@@ -581,7 +582,7 @@
         "entity.name.class"
       ],
       "settings": {
-        "foreground": "#7AD0FF"
+        "foreground": "#739FFF"
       }
     },
     {
@@ -637,7 +638,7 @@
         "storage.type.type.ts"
       ],
       "settings": {
-        "foreground": "#55FFBB",
+        "foreground": "#00F0FF",
         "fontStyle": "italic"
       }
     },
@@ -659,7 +660,7 @@
         "entity.name.function.decorator.python"
       ],
       "settings": {
-        "foreground": "#39FF14"
+        "foreground": "#07FB3C"
       }
     },
     {
@@ -672,7 +673,7 @@
         "entity.name.function.method.tsx"
       ],
       "settings": {
-        "foreground": "#66FFA8",
+        "foreground": "#07fb69",
         "fontStyle": ""
       }
     },
@@ -680,7 +681,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#00FF41",
+        "foreground": "#f75f73",
         "fontStyle": ""
       }
     },
@@ -697,7 +698,7 @@
         "variable.other.constant.property.tsx"
       ],
       "settings": {
-        "foreground": "#FF79C6",
+        "foreground": "#FB48C4",
         "fontStyle": ""
       }
     },
@@ -713,7 +714,7 @@
         "variable.other.property.tsx"
       ],
       "settings": {
-        "foreground": "#7AD0FF",
+        "foreground": "#00b4fc",
         "fontStyle": ""
       }
     },
@@ -725,7 +726,7 @@
         "string.value"
       ],
       "settings": {
-        "foreground": "#FFB86C"
+        "foreground": "#ECEC0E"
       }
     },
     {
@@ -739,7 +740,7 @@
         "storage"
       ],
       "settings": {
-        "foreground": "#55FFBB",
+        "foreground": "#35F6F6",
         "fontStyle": "italic"
       }
     },
@@ -801,7 +802,7 @@
         "keyword.operator.expression.not.python"
       ],
       "settings": {
-        "foreground": "#55FFBB",
+        "foreground": "#FE2149",
         "fontStyle": "italic"
       }
     },
@@ -833,7 +834,7 @@
         "constant.language.ellipsis.python"
       ],
       "settings": {
-        "foreground": "#A78BFA",
+        "foreground": "#9D59F8",
         "fontStyle": "bold"
       }
     },
@@ -844,7 +845,7 @@
         "keyword.operator.minus.exponent"
       ],
       "settings": {
-        "foreground": "#FF79C6",
+        "foreground": "#ff02ee",
         "fontStyle": ""
       }
     },
@@ -878,7 +879,7 @@
         "punctuation.definition.variable.makefile"
       ],
       "settings": {
-        "foreground": "#FF79C6"
+        "foreground": "#FF9EE7"
       }
     },
     {
@@ -891,7 +892,7 @@
         "meta.function.decorator.python"
       ],
       "settings": {
-        "foreground": "#FFB86C"
+        "foreground": "#E6E667"
       }
     },
     {
@@ -949,7 +950,7 @@
         "variable.language.this"
       ],
       "settings": {
-        "foreground": "#C0FFD8"
+        "foreground": "#FFBEFE"
       }
     },
     {
@@ -997,7 +998,7 @@
     {
       "scope": "comment.block.documentation variable",
       "settings": {
-        "foreground": "#A8FFC8",
+        "foreground": "#D3D1EB",
         "fontStyle": "italic"
       }
     },
@@ -1028,7 +1029,7 @@
         "punctuation.section.embedded.end.svelte"
       ],
       "settings": {
-        "foreground": "#E8EAED"
+        "foreground": "#D3D1EB"
       }
     },
     {
@@ -1052,7 +1053,7 @@
         "punctuation.separator.slice"
       ],
       "settings": {
-        "foreground": "#55FFBB"
+        "foreground": "#4FE0E0"
       }
     },
     {
@@ -1067,7 +1068,7 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#00FF41"
+        "foreground": "#5A6BC8"
       }
     },
     {
@@ -1090,7 +1091,7 @@
         "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#7AD0FF"
+        "foreground": "#739FFF"
       }
     },
     {
@@ -1255,7 +1256,7 @@
         "string.quoted.docstring.single.python punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#998055"
+        "foreground": "#50B6FF"
       }
     },
     {
@@ -1317,7 +1318,7 @@
         "text.html.markdown punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#FFB86B"
+        "foreground": "#D74BBE"
       }
     },
     {
@@ -1400,7 +1401,7 @@
         "keyword.operator.or.regexp"
       ],
       "settings": {
-        "foreground": "#39FF14"
+        "foreground": "#2FDE73"
       }
     },
     {
@@ -1491,7 +1492,7 @@
         "entity.name.tag.style.svelte"
       ],
       "settings": {
-        "foreground": "#00FF41"
+        "foreground": "#FE2149"
       }
     },
     {
@@ -1504,8 +1505,7 @@
         "entity.name.tag.component.svelte"
       ],
       "settings": {
-        "foreground": "#39FF14",
-        "fontStyle": ""
+        "foreground": "#4afe83"
       }
     },
     {
@@ -1521,7 +1521,7 @@
         "entity.other.attribute-name.directive.svelte"
       ],
       "settings": {
-        "foreground": "#7AD0FF",
+        "foreground": "#29caff",
         "fontStyle": "italic"
       }
     }
