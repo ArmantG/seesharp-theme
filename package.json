@@ -109,9 +109,9 @@
         "path": "./themes/SeeSharp Theme-Ocean Breeze.json"
       },
       {
-        "label": "SeeSharp Theme - Ocean Breeze Original Semantic Colors",
+        "label": "SeeSharp Theme - Ocean Breeze SeeSharp",
         "uiTheme": "vs-dark",
-        "path": "./themes/SeeSharp Theme-Ocean Breeze Original Semantic Colors.json"
+        "path": "./themes/SeeSharp Theme-Ocean Breeze SeeSharp.json"
       },
       {
         "label": "SeeSharp Theme - Frost Gray",
@@ -119,9 +119,9 @@
         "path": "./themes/SeeSharp Theme-Frost Gray.json"
       },
       {
-        "label": "SeeSharp Theme - Frost Gray Original Semantic Colors",
+        "label": "SeeSharp Theme - Frost Gray SeeSharp",
         "uiTheme": "vs-dark",
-        "path": "./themes/SeeSharp Theme-Frost Gray Original Semantic Colors.json"
+        "path": "./themes/SeeSharp Theme-Frost Gray SeeSharp.json"
       },
       {
         "label": "SeeSharp Theme - Verdant",
@@ -129,9 +129,9 @@
         "path": "./themes/SeeSharp Theme-Verdant.json"
       },
       {
-        "label": "SeeSharp Theme - Verdant Original Semantic Colors",
+        "label": "SeeSharp Theme - Verdant SeeSharp",
         "uiTheme": "vs-dark",
-        "path": "./themes/SeeSharp Theme-Verdant Original Semantic Colors.json"
+        "path": "./themes/SeeSharp Theme-Verdant SeeSharp.json"
       }
     ]
   },

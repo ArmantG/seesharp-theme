@@ -134,196 +134,196 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "namespace": "#A8FFC8",
+    "namespace": "#D8DEE9",
     "namespace.defaultLibrary": {
-      "foreground": "#66FFA8",
+      "foreground": "#A8E0FF",
       "fontStyle": "underline"
     },
-    "type": "#5AFF8A",
+    "type": "#B7E4FF",
     "type.declaration": {
-      "foreground": "#5AFF8A",
+      "foreground": "#B7E4FF",
       "fontStyle": "bold"
     },
     "type.defaultLibrary": {
-      "foreground": "#55FFBB",
+      "foreground": "#A6E3E9",
       "fontStyle": "italic"
     },
     "typeParameter": {
-      "foreground": "#55FFBB",
+      "foreground": "#A6E3E9",
       "fontStyle": ""
     },
     "class": {
-      "foreground": "#7AD0FF",
+      "foreground": "#7DD3FC",
       "fontStyle": ""
     },
     "class.declaration": {
-      "foreground": "#7AD0FF",
+      "foreground": "#7DD3FC",
       "fontStyle": "bold"
     },
     "class.defaultLibrary": {
-      "foreground": "#7AD0FF",
+      "foreground": "#7DD3FC",
       "fontStyle": "underline"
     },
     "class.static": {
-      "foreground": "#7AD0FF",
+      "foreground": "#7DD3FC",
       "fontStyle": ""
     },
     "class.readonly": {
-      "foreground": "#7AD0FF",
+      "foreground": "#7DD3FC",
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#A78BFA",
+      "foreground": "#C4B5FD",
       "fontStyle": ""
     },
     "interface.declaration": {
-      "foreground": "#A78BFA",
+      "foreground": "#C4B5FD",
       "fontStyle": "bold"
     },
-    "enum": "#5AFF8A",
+    "enum": "#B7E4FF",
     "enum.declaration": {
-      "foreground": "#5AFF8A",
+      "foreground": "#B7E4FF",
       "fontStyle": "bold"
     },
     "struct": {
-      "foreground": "#55FFBB",
+      "foreground": "#A6E3E9",
       "fontStyle": ""
     },
     "struct.declaration": {
-      "foreground": "#55FFBB",
+      "foreground": "#A6E3E9",
       "fontStyle": "bold"
     },
-    "enumMember": "#FF79C6",
-    "enumMember.readonly": "#FF79C6",
+    "enumMember": "#F0A8D8",
+    "enumMember.readonly": "#F0A8D8",
     "variable": {
-      "foreground": "#A8FFC8",
+      "foreground": "#D8DEE9",
       "fontStyle": "italic"
     },
     "variable.declaration": {
-      "foreground": "#A8FFC8",
+      "foreground": "#D8DEE9",
       "fontStyle": "bold italic"
     },
-    "variable.defaultLibrary": "#FF79C6",
+    "variable.defaultLibrary": "#F0A8D8",
     "variable.readonly": {
-      "foreground": "#FF79C6",
+      "foreground": "#F0A8D8",
       "fontStyle": "bold"
     },
-    "variable.readonly.defaultLibrary": "#FF79C6",
+    "variable.readonly.defaultLibrary": "#F0A8D8",
     "local": {
-      "foreground": "#55FFBB",
+      "foreground": "#B8C7D9",
       "fontStyle": "italic"
     },
     "parameter": {
-      "foreground": "#FF8AE0",
+      "foreground": "#E9A8D7",
       "fontStyle": "italic"
     },
     "parameter.declaration": {
-      "foreground": "#FF8AE0",
+      "foreground": "#E9A8D7",
       "fontStyle": "bold italic"
     },
     "parameter.readonly": {
-      "foreground": "#FF79C6",
+      "foreground": "#F0A8D8",
       "fontStyle": "italic"
     },
     "property": {
-      "foreground": "#7AD0FF",
+      "foreground": "#9FD5FF",
       "fontStyle": ""
     },
     "property.declaration": {
-      "foreground": "#7AD0FF",
+      "foreground": "#9FD5FF",
       "fontStyle": "bold"
     },
     "property.defaultLibrary": {
-      "foreground": "#55FFBB",
+      "foreground": "#A6E3E9",
       "fontStyle": "italic"
     },
     "property.readonly": {
-      "foreground": "#FF79C6",
+      "foreground": "#F0A8D8",
       "fontStyle": ""
     },
     "field": {
-      "foreground": "#C0FFD8",
+      "foreground": "#E8EAED",
       "fontStyle": ""
     },
     "field.declaration": {
-      "foreground": "#C0FFD8",
+      "foreground": "#E8EAED",
       "fontStyle": ""
     },
     "field.static": {
-      "foreground": "#C0FFD8",
+      "foreground": "#E8EAED",
       "fontStyle": "bold"
     },
     "field.readonly": {
-      "foreground": "#FF79C6",
+      "foreground": "#F0A8D8",
       "fontStyle": ""
     },
-    "function": "#39FF14",
+    "function": "#A7F3D0",
     "function.declaration": {
-      "foreground": "#39FF14",
+      "foreground": "#A7F3D0",
       "fontStyle": "bold"
     },
-    "function.defaultLibrary": "#39FF14",
+    "function.defaultLibrary": "#A7F3D0",
     "function.async": {
-      "foreground": "#39FF14",
+      "foreground": "#A7F3D0",
       "fontStyle": "italic"
     },
     "method": {
-      "foreground": "#66FFA8"
+      "foreground": "#A8E0FF"
     },
     "method.declaration": {
-      "foreground": "#66FFA8",
+      "foreground": "#A8E0FF",
       "fontStyle": "bold"
     },
     "method.defaultLibrary": {
-      "foreground": "#66FFA8",
+      "foreground": "#A8E0FF",
       "fontStyle": "underline"
     },
     "method.static": {
-      "foreground": "#66FFA8",
+      "foreground": "#A8E0FF",
       "fontStyle": "bold"
     },
     "method.async": {
-      "foreground": "#66FFA8",
+      "foreground": "#A8E0FF",
       "fontStyle": "italic"
     },
     "decorator": {
-      "foreground": "#FFB86C",
+      "foreground": "#FFD166",
       "fontStyle": "bold"
     },
     "macro": {
-      "foreground": "#FFB86C",
+      "foreground": "#FFD166",
       "fontStyle": "bold"
     },
     "event": {
-      "foreground": "#FFB86C",
+      "foreground": "#FFD166",
       "fontStyle": "bold"
     },
-    "label": "#A8FFC8",
+    "label": "#D8DEE9",
     "comment": {
-      "foreground": "#3D6E3D",
+      "foreground": "#6B7280",
       "fontStyle": "italic"
     },
     "comment.documentation": {
-      "foreground": "#66CCBB",
+      "foreground": "#8DD3C7",
       "fontStyle": "italic"
     },
-    "string": "#FFB86C",
-    "number": "#FF79C6",
-    "regexp": "#39FF14",
-    "keyword": "#00FF41",
-    "controlKeyword": "#00FF41",
-    "preprocessorKeyword": "#00FF41",
+    "string": "#FFD166",
+    "number": "#F0A8D8",
+    "regexp": "#A7F3D0",
+    "keyword": "#7DD3FC",
+    "controlKeyword": "#7DD3FC",
+    "preprocessorKeyword": "#7DD3FC",
     "modifier": {
-      "foreground": "#00FF41",
+      "foreground": "#7DD3FC",
       "fontStyle": "italic"
     },
-    "operator": "#00FF41",
+    "operator": "#CBD5E1",
     "*.documentation": {
-      "foreground": "#66CCBB",
+      "foreground": "#8DD3C7",
       "fontStyle": "italic"
     },
     "*.deprecated": {
-      "foreground": "#B8754E",
+      "foreground": "#C9A46A",
       "fontStyle": "underline italic"
     }
   },
